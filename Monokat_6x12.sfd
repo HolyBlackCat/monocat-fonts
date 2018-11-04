@@ -1,0 +1,8385 @@
+SplineFontDB: 3.0
+FontName: Monokat_6x12
+FullName: Monokat 6x12
+FamilyName: Monokat 6x12
+Weight: Normal
+Copyright: Licensce: CC-BY-SA 3.0 `Monokat 6x12` v1.00 by HolyBlackCat, 2018.\nYou can find the last version at https://github.com/HolyBlackCat/monokat-fonts
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -3
+UnderlineWidth: 6
+Ascent: 54
+Descent: 18
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 1
+XUID: [1021 484 20967 16211]
+FSType: 8
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1445609187
+ModificationTime: 1541338558
+PfmFamily: 49
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+MarkAttachClasses: 1
+DEI: 91125
+LangName: 1033
+Encoding: Custom
+Compacted: 1
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -24
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 0 66 12
+BeginPrivate: 0
+EndPrivate
+TeXData: 1 0 0 524288 262144 174763 436907 1048576 174763 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
+BeginChars: 230 229
+
+StartChar: .notdef
+Encoding: 0 0 0
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 48 6 6 0
+mHj.hJ:RENW9D=Tpt5?A
+EndImage
+Fore
+SplineSet
+12 5 m 25
+ 12 1 l 25
+ 13 0 l 25
+ 17 0 l 25
+ 18 1 l 25
+ 18 5 l 25
+ 17 6 l 25
+ 13 6 l 25
+ 12 5 l 25
+6 37 m 1
+ 6 31 l 1
+ 7 30 l 25
+ 11 30 l 25
+ 12 31 l 25
+ 12 35 l 25
+ 13 36 l 25
+ 17 36 l 25
+ 18 35 l 1
+ 18 27 l 1
+ 12 21 l 1
+ 12 13 l 1
+ 13 12 l 1
+ 17 12 l 1
+ 18 13 l 1
+ 18 19 l 1
+ 24 25 l 1
+ 24 37 l 1
+ 19 42 l 1
+ 11 42 l 1
+ 6 37 l 1
+0 -1 m 1
+ 0 43 l 1
+ 5 48 l 1
+ 25 48 l 1
+ 30 43 l 1
+ 30 -1 l 1
+ 25 -6 l 1
+ 5 -6 l 1
+ 0 -1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0001
+Encoding: 1 1 1
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:M#m^]<;chuJ;cTE"rl
+EndImage
+Fore
+SplineSet
+24 53 m 25
+ 24 49 l 1
+ 16 49 l 1
+ 16 47 l 1
+ 20 47 l 1
+ 20 37 l 1
+ 6 37 l 1
+ 6 41 l 1
+ 14 41 l 1
+ 14 43 l 1
+ 10 43 l 1
+ 10 53 l 1
+ 24 53 l 25
+6 5 m 25
+ 12 5 l 1
+ 12 -1 l 1
+ 24 -1 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -5 l 1
+ 12 -5 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 5 l 25
+18 25 m 1
+ 12 25 l 9
+ 12 17 l 1
+ 18 17 l 1
+ 18 25 l 1
+6 29 m 25
+ 24 29 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0002
+Encoding: 2 2 2
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:M#m^]<:X5QIHBTE"rl
+EndImage
+Fore
+SplineSet
+18 3 m 1
+ 18 5 l 1
+ 24 5 l 1
+ 24 1 l 1
+ 20 -3 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -9 l 1
+ 15 -6 l 1
+ 12 -9 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 -7 l 1
+ 10 -3 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 12 5 l 1
+ 12 3 l 1
+ 15 0 l 1
+ 18 3 l 1
+24 53 m 25
+ 24 49 l 1
+ 16 49 l 1
+ 16 47 l 1
+ 20 47 l 1
+ 20 37 l 1
+ 6 37 l 1
+ 6 41 l 1
+ 14 41 l 1
+ 14 43 l 1
+ 10 43 l 1
+ 10 53 l 1
+ 24 53 l 25
+6 29 m 25
+ 24 29 l 1
+ 24 25 l 1
+ 18 25 l 1
+ 18 13 l 1
+ 12 13 l 1
+ 12 25 l 1
+ 6 25 l 1
+ 6 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0003
+Encoding: 3 3 3
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QRnhuM\#5QIHBTE"rl
+EndImage
+Fore
+SplineSet
+24 53 m 25
+ 24 49 l 1
+ 12 49 l 1
+ 12 47 l 1
+ 18 47 l 1
+ 18 43 l 1
+ 12 43 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 25
+18 3 m 5
+ 18 5 l 5
+ 24 5 l 5
+ 24 1 l 5
+ 20 -3 l 5
+ 24 -7 l 5
+ 24 -11 l 5
+ 18 -11 l 5
+ 18 -9 l 5
+ 15 -6 l 5
+ 12 -9 l 5
+ 12 -11 l 5
+ 6 -11 l 5
+ 6 -7 l 5
+ 10 -3 l 5
+ 6 1 l 5
+ 6 5 l 5
+ 12 5 l 5
+ 12 3 l 5
+ 15 0 l 5
+ 18 3 l 5
+6 29 m 25
+ 24 29 l 1
+ 24 25 l 1
+ 18 25 l 1
+ 18 13 l 1
+ 12 13 l 1
+ 12 25 l 1
+ 6 25 l 1
+ 6 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0004
+Encoding: 4 4 4
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QRnhuM].huM\#5QCca
+EndImage
+Fore
+SplineSet
+6 5 m 29
+ 24 5 l 1
+ 24 1 l 1
+ 18 1 l 1
+ 18 -11 l 1
+ 12 -11 l 1
+ 12 1 l 1
+ 6 1 l 1
+ 6 5 l 29
+12 25 m 29
+ 12 17 l 1
+ 18 17 l 1
+ 18 25 l 1
+ 12 25 l 29
+6 29 m 29
+ 24 29 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 29
+24 53 m 29
+ 24 49 l 1
+ 12 49 l 1
+ 12 47 l 1
+ 18 47 l 1
+ 18 43 l 1
+ 12 43 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0005
+Encoding: 5 5 5
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QRnhuLQcTE*p.+92BA
+EndImage
+Fore
+SplineSet
+12 1 m 25
+ 12 -1 l 1
+ 18 -1 l 1
+ 18 1 l 1
+ 12 1 l 25
+24 5 m 25
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -5 l 1
+ 6 -5 l 1
+ 6 5 l 1
+ 24 5 l 25
+6 29 m 29
+ 18 29 l 1
+ 24 23 l 1
+ 24 13 l 1
+ 18 13 l 1
+ 18 21 l 1
+ 14 25 l 1
+ 12 25 l 1
+ 12 13 l 1
+ 6 13 l 1
+ 6 29 l 29
+24 53 m 25
+ 24 49 l 1
+ 12 49 l 1
+ 12 47 l 1
+ 18 47 l 1
+ 18 43 l 1
+ 12 43 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0006
+Encoding: 6 6 6
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:M%cTE*o#huKFcTE"rl
+EndImage
+Fore
+SplineSet
+18 -9 m 1
+ 15 -6 l 1
+ 12 -6 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 5 l 1
+ 12 5 l 1
+ 12 0 l 1
+ 15 0 l 1
+ 18 3 l 1
+ 18 5 l 1
+ 24 5 l 1
+ 24 1 l 1
+ 20 -3 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -9 l 1
+24 29 m 25
+ 24 25 l 1
+ 12 25 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 1
+ 24 29 l 25
+18 49 m 29
+ 17 49 l 5
+ 16 47 l 5
+ 18 47 l 5
+ 18 49 l 29
+14 43 m 5
+ 12 39 l 5
+ 12 37 l 5
+ 6 37 l 5
+ 6 41 l 5
+ 12 53 l 5
+ 24 53 l 5
+ 24 37 l 5
+ 18 37 l 5
+ 18 43 l 5
+ 14 43 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0007
+Encoding: 7 7 7
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:KU%3$9@%huE`W
+EndImage
+Fore
+SplineSet
+29 30 m 1
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 1
+ 18 24 l 1
+ 18 3 l 1
+ 15 0 l 1
+ 3 0 l 1
+ 0 3 l 1
+ 0 9 l 1
+ 3 12 l 1
+ 12 12 l 1
+ 12 41 l 1
+ 13 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+ 29 36 l 1
+ 18 36 l 1
+ 18 30 l 1
+ 29 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0008
+Encoding: 8 8 8
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:KUUkYO5=
+EndImage
+Fore
+SplineSet
+0 16 m 1
+ 14 30 l 1
+ 17 30 l 1
+ 18 29 l 25
+ 18 18 l 25
+ 29 18 l 25
+ 30 17 l 25
+ 30 13 l 1
+ 29 12 l 25
+ 18 12 l 25
+ 18 1 l 25
+ 17 0 l 1
+ 14 0 l 1
+ 0 14 l 1
+ 0 16 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0009
+Encoding: 9 9 9
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 36 6 6 0
+mHj.hJ:NH3Lo?,cL]@DT
+EndImage
+Fore
+SplineSet
+11 13 m 25
+ 11 17 l 1
+ 15 17 l 1
+ 15 20 l 1
+ 20 15 l 1
+ 15 10 l 1
+ 15 13 l 1
+ 11 13 l 25
+29 -5 m 1
+ 28 -6 l 1
+ 26 -6 l 1
+ 25 -5 l 1
+ 25 35 l 1
+ 26 36 l 1
+ 28 36 l 1
+ 29 35 l 1
+ 29 -5 l 1
+1 -5 m 1
+ 1 35 l 1
+ 2 36 l 1
+ 4 36 l 1
+ 5 35 l 1
+ 5 -5 l 1
+ 4 -6 l 5
+ 2 -6 l 1
+ 1 -5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni000A
+Encoding: 10 10 10
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 11 0 1 2 0 0 54 6 6 0
+mHj.hJ:OQu#RI@78GGFMVuQet
+EndImage
+Fore
+SplineSet
+30 25 m 1
+ 29 25 l 1
+ 29 8 l 1
+ 28 7 l 1
+ 11 7 l 1
+ 11 0 l 1
+ 2 9 l 1
+ 11 18 l 1
+ 11 11 l 1
+ 25 11 l 1
+ 25 25 l 1
+ 23 25 l 1
+ 22 26 l 1
+ 22 28 l 1
+ 23 29 l 1
+ 25 29 l 1
+ 25 41 l 1
+ 26 42 l 1
+ 28 42 l 1
+ 29 41 l 1
+ 29 29 l 1
+ 30 29 l 1
+ 30 25 l 1
+22 -10 m 25
+ 22 -8 l 1
+ 23 -7 l 1
+ 30 -7 l 1
+ 30 -11 l 1
+ 23 -11 l 1
+ 22 -10 l 25
+11 -11 m 25
+ 10 -10 l 1
+ 10 -8 l 1
+ 11 -7 l 1
+ 19 -7 l 1
+ 20 -8 l 1
+ 20 -10 l 1
+ 19 -11 l 1
+ 11 -11 l 25
+0 -7 m 25
+ 7 -7 l 1
+ 8 -8 l 1
+ 8 -10 l 1
+ 7 -11 l 1
+ 0 -11 l 1
+ 0 -7 l 25
+11 25 m 25
+ 10 26 l 1
+ 10 28 l 1
+ 11 29 l 1
+ 19 29 l 1
+ 20 28 l 1
+ 20 26 l 1
+ 19 25 l 1
+ 11 25 l 25
+0 29 m 25
+ 7 29 l 1
+ 8 28 l 1
+ 8 26 l 1
+ 7 25 l 1
+ 0 25 l 1
+ 0 29 l 25
+22 50 m 25
+ 22 52 l 1
+ 23 53 l 1
+ 30 53 l 1
+ 30 49 l 1
+ 23 49 l 1
+ 22 50 l 25
+11 49 m 25
+ 10 50 l 1
+ 10 52 l 1
+ 11 53 l 1
+ 19 53 l 1
+ 20 52 l 1
+ 20 50 l 1
+ 19 49 l 1
+ 11 49 l 25
+0 53 m 25
+ 7 53 l 1
+ 8 52 l 1
+ 8 50 l 1
+ 7 49 l 1
+ 0 49 l 1
+ 0 53 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni000B
+Encoding: 11 11 11
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:RCp+9;0:
+EndImage
+Fore
+SplineSet
+1 5 m 1
+ 29 5 l 1
+ 30 4 l 1
+ 30 2 l 1
+ 29 1 l 1
+ 1 1 l 1
+ 0 2 l 1
+ 0 4 l 1
+ 1 5 l 1
+1 25 m 1
+ 0 26 l 1
+ 0 28 l 1
+ 1 29 l 1
+ 29 29 l 1
+ 30 28 l 1
+ 30 26 l 1
+ 29 25 l 1
+ 1 25 l 1
+13 19 m 25
+ 17 19 l 1
+ 17 15 l 1
+ 20 15 l 1
+ 15 10 l 1
+ 10 15 l 1
+ 13 15 l 1
+ 13 19 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni000C
+Encoding: 12 12 12
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:QRnJ,nNCJ,fQL
+EndImage
+Fore
+SplineSet
+12 1 m 25
+ 6 1 l 1
+ 6 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 12 13 l 1
+ 12 11 l 1
+ 18 11 l 1
+ 18 7 l 1
+ 12 7 l 1
+ 12 1 l 25
+12 25 m 29
+ 6 25 l 1
+ 6 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 12 37 l 1
+ 12 35 l 1
+ 18 35 l 1
+ 18 31 l 1
+ 12 31 l 1
+ 12 25 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni000D
+Encoding: 13 13 13
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 36 6 6 0
+mHj.hJ:N.]TQm+@J,fQL
+EndImage
+Fore
+SplineSet
+29 12 m 1
+ 16 12 l 1
+ 24 4 l 1
+ 24 3 l 1
+ 21 0 l 1
+ 20 0 l 1
+ 6 14 l 1
+ 6 16 l 1
+ 20 30 l 1
+ 21 30 l 1
+ 24 27 l 1
+ 24 26 l 1
+ 16 18 l 1
+ 29 18 l 1
+ 30 17 l 1
+ 30 13 l 1
+ 29 12 l 1
+5 -6 m 1
+ 1 -6 l 1
+ 1 1 l 1
+ 2 2 l 1
+ 4 2 l 1
+ 5 1 l 1
+ 5 -6 l 1
+5 5 m 25
+ 4 4 l 1
+ 2 4 l 1
+ 1 5 l 1
+ 1 13 l 1
+ 2 14 l 1
+ 4 14 l 1
+ 5 13 l 1
+ 5 5 l 25
+5 17 m 25
+ 4 16 l 1
+ 2 16 l 1
+ 1 17 l 1
+ 1 25 l 1
+ 2 26 l 1
+ 4 26 l 1
+ 5 25 l 1
+ 5 17 l 25
+5 29 m 1
+ 4 28 l 1
+ 2 28 l 1
+ 1 29 l 1
+ 1 36 l 1
+ 5 36 l 1
+ 5 29 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni000E
+Encoding: 14 14 14
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:M#m^]<;chuE`W
+EndImage
+Fore
+SplineSet
+12 13 m 25
+ 12 5 l 1
+ 18 5 l 1
+ 18 13 l 1
+ 12 13 l 25
+6 17 m 25
+ 24 17 l 1
+ 24 1 l 1
+ 6 1 l 1
+ 6 17 l 25
+24 41 m 25
+ 24 37 l 1
+ 16 37 l 1
+ 16 35 l 1
+ 20 35 l 1
+ 20 25 l 1
+ 6 25 l 1
+ 6 29 l 1
+ 14 29 l 1
+ 14 31 l 1
+ 10 31 l 1
+ 10 41 l 1
+ 24 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni000F
+Encoding: 15 15 15
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:M#m^]6Vb5QCca
+EndImage
+Fore
+SplineSet
+12 11 m 25
+ 18 11 l 1
+ 18 1 l 1
+ 12 1 l 1
+ 12 11 l 25
+12 17 m 25
+ 18 17 l 1
+ 18 13 l 1
+ 12 13 l 1
+ 12 17 l 25
+24 41 m 25
+ 24 37 l 1
+ 16 37 l 1
+ 16 35 l 1
+ 20 35 l 1
+ 20 25 l 1
+ 6 25 l 1
+ 6 29 l 1
+ 14 29 l 1
+ 14 31 l 1
+ 10 31 l 1
+ 10 41 l 1
+ 24 41 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0010
+Encoding: 16 16 16
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:PG.^]8n8huM]NhuE`W
+EndImage
+Fore
+SplineSet
+24 5 m 25
+ 24 1 l 1
+ 12 1 l 1
+ 12 -1 l 1
+ 18 -1 l 1
+ 18 -5 l 1
+ 12 -5 l 1
+ 12 -7 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 6 -11 l 1
+ 6 5 l 1
+ 24 5 l 25
+6 29 m 25
+ 12 29 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 25
+14 49 m 29
+ 12 49 l 1
+ 12 41 l 1
+ 14 41 l 1
+ 18 45 l 1
+ 14 49 l 29
+6 53 m 29
+ 18 53 l 1
+ 24 47 l 1
+ 24 43 l 1
+ 18 37 l 1
+ 6 37 l 1
+ 6 53 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0011
+Encoding: 17 17 17
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:PG.^]<;ChuM\#huE`W
+EndImage
+Fore
+SplineSet
+6 5 m 29
+ 24 5 l 1
+ 24 1 l 1
+ 18 1 l 1
+ 18 -7 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 6 -11 l 1
+ 6 -7 l 1
+ 12 -7 l 1
+ 12 1 l 1
+ 6 1 l 1
+ 6 5 l 29
+24 29 m 29
+ 24 25 l 1
+ 12 25 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 1
+ 24 29 l 29
+14 49 m 29
+ 12 49 l 1
+ 12 41 l 1
+ 14 41 l 1
+ 18 45 l 1
+ 14 49 l 29
+6 53 m 29
+ 18 53 l 1
+ 24 47 l 1
+ 24 43 l 1
+ 18 37 l 1
+ 6 37 l 1
+ 6 53 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0012
+Encoding: 18 18 18
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 5 11 0 1 2 0 0 54 6 6 0
+mHj.hJ:M$(?iY.2DufZ0p](9o
+EndImage
+Fore
+SplineSet
+12 1 m 29
+ 12 -7 l 1
+ 18 -7 l 1
+ 18 1 l 1
+ 12 1 l 29
+30 -11 m 29
+ 0 -11 l 1
+ 0 -7 l 1
+ 6 -7 l 1
+ 6 1 l 1
+ 0 1 l 1
+ 0 5 l 1
+ 30 5 l 1
+ 30 1 l 1
+ 24 1 l 1
+ 24 -7 l 1
+ 30 -7 l 1
+ 30 -11 l 29
+24 29 m 29
+ 24 25 l 1
+ 12 25 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 1
+ 24 29 l 29
+14 49 m 29
+ 12 49 l 1
+ 12 41 l 1
+ 14 41 l 1
+ 18 45 l 1
+ 14 49 l 29
+6 53 m 29
+ 18 53 l 1
+ 24 47 l 1
+ 24 43 l 1
+ 18 37 l 1
+ 6 37 l 1
+ 6 53 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0013
+Encoding: 19 19 19
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 11 0 1 2 0 0 54 6 6 0
+mHj.hJ:M$(?iY.2Duci8VuQet
+EndImage
+Fore
+SplineSet
+24 5 m 1
+ 30 5 l 1
+ 30 -11 l 1
+ 24 -11 l 1
+ 24 5 l 1
+12 5 m 1
+ 18 5 l 1
+ 18 -11 l 1
+ 12 -11 l 1
+ 12 5 l 1
+0 5 m 1
+ 6 5 l 1
+ 6 -11 l 1
+ 0 -11 l 1
+ 0 5 l 1
+24 29 m 25
+ 24 25 l 1
+ 12 25 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 1
+ 24 29 l 25
+14 49 m 25
+ 12 49 l 1
+ 12 41 l 1
+ 14 41 l 1
+ 18 45 l 1
+ 14 49 l 25
+6 53 m 25
+ 18 53 l 1
+ 24 47 l 1
+ 24 43 l 1
+ 18 37 l 1
+ 6 37 l 1
+ 6 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0014
+Encoding: 20 20 20
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 11 0 1 2 0 0 54 6 6 0
+mHj.hJ:M$(?iY.2Duci8O8o7\
+EndImage
+Fore
+SplineSet
+30 1 m 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 12 1 l 1
+ 12 5 l 1
+ 18 5 l 1
+ 18 1 l 1
+ 21 -5 l 1
+ 24 1 l 25
+ 24 5 l 1
+ 30 5 l 1
+ 30 1 l 1
+0 5 m 1
+ 6 5 l 1
+ 6 -11 l 1
+ 0 -11 l 1
+ 0 5 l 1
+24 29 m 25
+ 24 25 l 1
+ 12 25 l 1
+ 12 17 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 1
+ 24 29 l 25
+14 49 m 25
+ 12 49 l 1
+ 12 41 l 1
+ 14 41 l 1
+ 18 45 l 1
+ 14 49 l 25
+6 53 m 25
+ 18 53 l 1
+ 24 47 l 1
+ 24 43 l 1
+ 18 37 l 1
+ 6 37 l 1
+ 6 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0015
+Encoding: 21 21 21
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:PG.TE&BXTE(Y#TE"rl
+EndImage
+Fore
+SplineSet
+18 25 m 29
+ 17 25 l 5
+ 16 23 l 5
+ 18 23 l 5
+ 18 25 l 29
+14 19 m 5
+ 12 15 l 5
+ 12 13 l 5
+ 6 13 l 5
+ 6 17 l 5
+ 12 29 l 5
+ 24 29 l 5
+ 24 13 l 5
+ 18 13 l 5
+ 18 19 l 5
+ 14 19 l 5
+6 53 m 25
+ 18 53 l 1
+ 24 47 l 1
+ 24 37 l 1
+ 18 37 l 1
+ 18 45 l 1
+ 14 49 l 1
+ 12 49 l 1
+ 12 37 l 1
+ 6 37 l 1
+ 6 53 l 25
+18 -9 m 1
+ 15 -6 l 1
+ 12 -6 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 5 l 1
+ 12 5 l 1
+ 12 0 l 1
+ 15 0 l 1
+ 18 3 l 1
+ 18 5 l 1
+ 24 5 l 1
+ 24 1 l 1
+ 20 -3 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -9 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0016
+Encoding: 22 22 22
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:M#m^]:#m5QJTmTE"rl
+EndImage
+Fore
+SplineSet
+6 5 m 25
+ 18 5 l 1
+ 24 -1 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -3 l 1
+ 14 1 l 1
+ 12 1 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 5 l 25
+6 29 m 25
+ 12 29 l 1
+ 12 27 l 1
+ 15 24 l 1
+ 18 27 l 1
+ 18 29 l 1
+ 24 29 l 1
+ 24 25 l 1
+ 18 19 l 1
+ 18 13 l 1
+ 12 13 l 1
+ 12 19 l 1
+ 6 25 l 1
+ 6 29 l 25
+24 53 m 25
+ 24 49 l 1
+ 16 49 l 1
+ 16 47 l 1
+ 20 47 l 1
+ 20 37 l 1
+ 6 37 l 1
+ 6 41 l 1
+ 14 41 l 1
+ 14 43 l 1
+ 10 43 l 1
+ 10 53 l 1
+ 24 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0017
+Encoding: 23 23 23
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QRnhuM\#5_.dchuE`W
+EndImage
+Fore
+SplineSet
+12 1 m 29
+ 12 -7 l 1
+ 18 -7 l 1
+ 18 1 l 1
+ 12 1 l 29
+6 11 m 29
+ 12 11 l 1
+ 12 5 l 1
+ 24 5 l 1
+ 24 -11 l 1
+ 6 -11 l 1
+ 6 11 l 29
+6 29 m 25
+ 24 29 l 1
+ 24 25 l 1
+ 18 25 l 1
+ 18 13 l 1
+ 12 13 l 1
+ 12 25 l 1
+ 6 25 l 1
+ 6 29 l 25
+24 53 m 25
+ 24 49 l 1
+ 12 49 l 1
+ 12 47 l 1
+ 18 47 l 1
+ 18 43 l 1
+ 12 43 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0018
+Encoding: 24 24 24
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QR.huI0CTE)d#TE"rl
+EndImage
+Fore
+SplineSet
+18 25 m 29
+ 17 25 l 5
+ 16 23 l 5
+ 18 23 l 5
+ 18 25 l 29
+14 19 m 5
+ 12 15 l 5
+ 12 13 l 5
+ 6 13 l 5
+ 6 17 l 5
+ 12 29 l 5
+ 24 29 l 5
+ 24 13 l 5
+ 18 13 l 5
+ 18 19 l 5
+ 14 19 l 5
+6 5 m 25
+ 18 5 l 1
+ 24 -1 l 1
+ 24 -11 l 1
+ 18 -11 l 1
+ 18 -3 l 1
+ 14 1 l 1
+ 12 1 l 1
+ 12 -11 l 1
+ 6 -11 l 1
+ 6 5 l 25
+24 53 m 25
+ 24 49 l 1
+ 12 49 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni0019
+Encoding: 25 25 25
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTHDufC+VuQet
+EndImage
+Fore
+SplineSet
+0 17 m 25
+ 24 17 l 1
+ 30 11 l 1
+ 30 1 l 1
+ 24 1 l 1
+ 24 9 l 1
+ 20 13 l 1
+ 18 13 l 1
+ 18 1 l 1
+ 12 1 l 1
+ 12 13 l 1
+ 6 13 l 1
+ 6 1 l 1
+ 0 1 l 1
+ 0 17 l 25
+24 41 m 29
+ 24 37 l 1
+ 12 37 l 1
+ 12 35 l 1
+ 18 35 l 1
+ 18 31 l 1
+ 12 31 l 1
+ 12 29 l 1
+ 24 29 l 1
+ 24 25 l 1
+ 6 25 l 1
+ 6 41 l 1
+ 24 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001A
+Encoding: 26 26 26
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:M#m^]:%#i.0aYhuE`W
+EndImage
+Fore
+SplineSet
+24 53 m 25
+ 24 49 l 1
+ 16 49 l 1
+ 16 47 l 1
+ 20 47 l 1
+ 20 37 l 1
+ 6 37 l 1
+ 6 41 l 1
+ 14 41 l 1
+ 14 43 l 1
+ 10 43 l 1
+ 10 53 l 1
+ 24 53 l 25
+6 29 m 25
+ 12 29 l 1
+ 12 17 l 1
+ 18 17 l 1
+ 18 29 l 1
+ 24 29 l 1
+ 24 13 l 1
+ 6 13 l 1
+ 6 29 l 25
+12 1 m 25
+ 12 -7 l 1
+ 18 -7 l 1
+ 18 1 l 1
+ 12 1 l 25
+6 11 m 25
+ 12 11 l 1
+ 12 5 l 1
+ 24 5 l 1
+ 24 -11 l 1
+ 6 -11 l 1
+ 6 11 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001B
+Encoding: 27 27 27
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 11 0 1 2 0 6 54 6 6 0
+mHj.hJ:QRnhuI.M^]<;ChuE`W
+EndImage
+Fore
+SplineSet
+24 5 m 25
+ 24 1 l 1
+ 12 1 l 1
+ 12 -7 l 1
+ 24 -7 l 1
+ 24 -11 l 1
+ 6 -11 l 1
+ 6 5 l 1
+ 24 5 l 25
+24 53 m 25
+ 24 49 l 1
+ 12 49 l 1
+ 12 47 l 1
+ 18 47 l 1
+ 18 43 l 1
+ 12 43 l 1
+ 12 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 6 37 l 1
+ 6 53 l 1
+ 24 53 l 25
+24 29 m 25
+ 24 25 l 1
+ 16 25 l 1
+ 16 23 l 1
+ 20 23 l 1
+ 20 13 l 1
+ 6 13 l 1
+ 6 17 l 1
+ 14 17 l 1
+ 14 19 l 1
+ 10 19 l 1
+ 10 29 l 1
+ 24 29 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001C
+Encoding: 28 28 28
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:QRnJ,itB^]4?7
+EndImage
+Fore
+SplineSet
+24 17 m 25
+ 24 13 l 1
+ 16 13 l 1
+ 16 11 l 1
+ 20 11 l 1
+ 20 1 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 14 5 l 1
+ 14 7 l 1
+ 10 7 l 1
+ 10 17 l 1
+ 24 17 l 25
+12 25 m 25
+ 6 25 l 1
+ 6 41 l 1
+ 24 41 l 1
+ 24 37 l 1
+ 12 37 l 1
+ 12 35 l 1
+ 18 35 l 1
+ 18 31 l 1
+ 12 31 l 1
+ 12 25 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001D
+Encoding: 29 29 29
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 8 0 1 2 0 6 48 6 6 0
+mHj.hJ:QR.T\ofX5em@"
+EndImage
+Fore
+SplineSet
+24 17 m 25
+ 24 13 l 1
+ 16 13 l 1
+ 16 11 l 1
+ 20 11 l 1
+ 20 1 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 14 5 l 1
+ 14 7 l 1
+ 10 7 l 1
+ 10 17 l 1
+ 24 17 l 25
+24 47 m 25
+ 24 43 l 1
+ 12 43 l 1
+ 12 29 l 1
+ 18 29 l 1
+ 18 35 l 1
+ 24 35 l 1
+ 24 25 l 1
+ 6 25 l 1
+ 6 47 l 1
+ 24 47 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001E
+Encoding: 30 30 30
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:QRnTE&@b^]4?7
+EndImage
+Fore
+SplineSet
+12 37 m 25
+ 12 35 l 1
+ 14 35 l 1
+ 16 37 l 1
+ 12 37 l 25
+6 41 m 25
+ 24 41 l 1
+ 24 37 l 1
+ 20 33 l 1
+ 24 29 l 1
+ 24 25 l 1
+ 18 25 l 1
+ 18 27 l 1
+ 14 31 l 1
+ 12 31 l 1
+ 12 25 l 1
+ 6 25 l 1
+ 6 41 l 25
+24 17 m 25
+ 24 13 l 1
+ 16 13 l 1
+ 16 11 l 1
+ 20 11 l 1
+ 20 1 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 14 5 l 1
+ 14 7 l 1
+ 10 7 l 1
+ 10 17 l 1
+ 24 17 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni001F
+Encoding: 31 31 31
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:O;chuI.M^]4?7
+EndImage
+Fore
+SplineSet
+6 41 m 25
+ 12 41 l 1
+ 12 29 l 1
+ 18 29 l 1
+ 18 41 l 1
+ 24 41 l 1
+ 24 25 l 1
+ 6 25 l 1
+ 6 41 l 25
+24 17 m 25
+ 24 13 l 1
+ 16 13 l 1
+ 16 11 l 1
+ 20 11 l 1
+ 20 1 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 14 5 l 1
+ 14 7 l 1
+ 10 7 l 1
+ 10 17 l 1
+ 24 17 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: space
+Encoding: 32 32 32
+Width: 36
+VWidth: 0
+Flags: MW
+LayerCount: 2
+Back
+Image: 1 1 0 1 2 0 30 -12 6 6 0
+mHj.hJ:IV"
+EndImage
+Fore
+Validated: 1
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 33
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 8 0 1 2 0 12 48 6 6 0
+mHj.hJ:N0#J:N0#!.Y%L
+EndImage
+Fore
+SplineSet
+12 47 m 1
+ 13 48 l 1
+ 17 48 l 1
+ 18 47 l 1
+ 18 13 l 1
+ 17 12 l 1
+ 13 12 l 1
+ 12 13 l 1
+ 12 47 l 1
+12 1 m 1
+ 12 5 l 1
+ 13 6 l 1
+ 17 6 l 1
+ 18 5 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+ 12 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedbl
+Encoding: 34 34 34
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 2 0 1 2 0 6 48 6 6 0
+mHj.hJ:O;c
+EndImage
+Fore
+SplineSet
+19 36 m 1
+ 18 37 l 1
+ 18 47 l 1
+ 19 48 l 1
+ 23 48 l 1
+ 24 47 l 1
+ 24 37 l 1
+ 23 36 l 1
+ 19 36 l 1
+7 36 m 1
+ 6 37 l 1
+ 6 47 l 1
+ 7 48 l 1
+ 11 48 l 1
+ 12 47 l 1
+ 12 37 l 1
+ 11 36 l 1
+ 7 36 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: numbersign
+Encoding: 35 35 35
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:LHmpe^`^:]LIq
+EndImage
+Fore
+SplineSet
+12 24 m 25
+ 12 18 l 25
+ 18 18 l 25
+ 18 24 l 25
+ 12 24 l 25
+30 29 m 1
+ 30 25 l 1
+ 29 24 l 1
+ 24 24 l 1
+ 24 18 l 1
+ 29 18 l 1
+ 30 17 l 1
+ 30 13 l 1
+ 29 12 l 1
+ 24 12 l 1
+ 24 1 l 1
+ 23 0 l 1
+ 19 0 l 1
+ 18 1 l 1
+ 18 12 l 1
+ 12 12 l 1
+ 12 1 l 1
+ 11 0 l 1
+ 7 0 l 1
+ 6 1 l 1
+ 6 12 l 1
+ 1 12 l 1
+ 0 13 l 1
+ 0 17 l 1
+ 1 18 l 1
+ 6 18 l 1
+ 6 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 6 30 l 1
+ 6 41 l 1
+ 7 42 l 1
+ 11 42 l 1
+ 12 41 l 1
+ 12 30 l 1
+ 18 30 l 1
+ 18 41 l 1
+ 19 42 l 1
+ 23 42 l 1
+ 24 41 l 1
+ 24 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: dollar
+Encoding: 36 36 36
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:JabGbB"(n/rhR
+EndImage
+Fore
+SplineSet
+20 12 m 1
+ 18 12 l 1
+ 18 6 l 1
+ 20 6 l 9
+ 23 9 l 25
+ 20 12 l 1
+10 18 m 1
+ 12 18 l 1
+ 12 24 l 1
+ 10 24 l 9
+ 7 21 l 25
+ 10 18 l 1
+1 6 m 25
+ 12 6 l 1
+ 12 12 l 1
+ 8 12 l 1
+ 0 20 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 12 30 l 1
+ 12 41 l 9
+ 13 42 l 25
+ 17 42 l 25
+ 18 41 l 25
+ 18 30 l 1
+ 29 30 l 25
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 25
+ 18 24 l 1
+ 18 18 l 1
+ 22 18 l 1
+ 30 10 l 1
+ 30 8 l 1
+ 22 0 l 25
+ 18 0 l 1
+ 18 -11 l 25
+ 17 -12 l 25
+ 13 -12 l 25
+ 12 -11 l 25
+ 12 0 l 1
+ 1 0 l 25
+ 0 1 l 25
+ 0 5 l 25
+ 1 6 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: percent
+Encoding: 37 37 37
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:M$8#]P;J0E;(Q
+EndImage
+Fore
+SplineSet
+12 9 m 25
+ 15 12 l 25
+ 21 12 l 25
+ 24 9 l 25
+ 24 3 l 25
+ 21 0 l 25
+ 15 0 l 25
+ 12 3 l 25
+ 12 9 l 25
+6 39 m 25
+ 9 42 l 25
+ 15 42 l 25
+ 18 39 l 25
+ 18 33 l 25
+ 15 30 l 25
+ 9 30 l 25
+ 6 33 l 25
+ 6 39 l 25
+0 15 m 1
+ 0 16 l 1
+ 8 24 l 1
+ 20 24 l 1
+ 26 30 l 1
+ 27 30 l 1
+ 30 27 l 1
+ 30 26 l 1
+ 22 18 l 1
+ 10 18 l 1
+ 4 12 l 1
+ 3 12 l 1
+ 0 15 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 38
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Jb=:gg5`BE/#4
+EndImage
+Fore
+SplineSet
+9 17 m 1
+ 6 14 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 14 6 l 1
+ 17 9 l 1
+ 9 17 l 1
+12 32 m 17
+ 12 22 l 1
+ 18 28 l 1
+ 18 32 l 9
+ 15 35 l 25
+ 12 32 l 17
+30 4 m 25
+ 30 3 l 1
+ 27 0 l 1
+ 26 0 l 1
+ 21 5 l 25
+ 16 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 16 l 1
+ 6 22 l 1
+ 6 34 l 1
+ 14 42 l 1
+ 16 42 l 1
+ 24 34 l 9
+ 24 26 l 25
+ 16 18 l 9
+ 21 13 l 25
+ 26 18 l 17
+ 27 18 l 1
+ 30 15 l 1
+ 30 14 l 9
+ 25 9 l 25
+ 30 4 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 39
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 2 0 1 2 0 12 48 6 6 0
+mHj.hJ:N0#
+EndImage
+Fore
+SplineSet
+12 47 m 29
+ 13 48 l 25
+ 17 48 l 25
+ 18 47 l 25
+ 18 37 l 25
+ 17 36 l 25
+ 13 36 l 25
+ 12 37 l 25
+ 12 47 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 40
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:Jb-J:N0#J3Y4W
+EndImage
+Fore
+SplineSet
+21 48 m 1
+ 24 45 l 1
+ 24 44 l 1
+ 12 32 l 1
+ 12 10 l 1
+ 24 -2 l 1
+ 24 -3 l 1
+ 21 -6 l 1
+ 20 -6 l 1
+ 6 8 l 1
+ 6 34 l 1
+ 20 48 l 1
+ 21 48 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 41
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:N/8+<VdL+@(GW
+EndImage
+Fore
+Refer: 40 40 S -1 1.22461e-016 -1.22461e-016 -1 30 42 2
+Validated: 1
+EndChar
+
+StartChar: asterisk
+Encoding: 42 42 42
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:Jc@E2XlZ
+EndImage
+Fore
+SplineSet
+12 1 m 25
+ 12 12 l 1
+ 10 12 l 1
+ 4 6 l 1
+ 3 6 l 1
+ 0 9 l 1
+ 0 10 l 1
+ 5 15 l 25
+ 0 20 l 1
+ 0 21 l 1
+ 3 24 l 1
+ 4 24 l 1
+ 10 18 l 1
+ 12 18 l 1
+ 12 29 l 25
+ 13 30 l 25
+ 17 30 l 25
+ 18 29 l 25
+ 18 18 l 1
+ 20 18 l 1
+ 26 24 l 1
+ 27 24 l 1
+ 30 21 l 1
+ 30 20 l 1
+ 25 15 l 25
+ 30 10 l 1
+ 30 9 l 1
+ 27 6 l 1
+ 26 6 l 1
+ 20 12 l 1
+ 18 12 l 1
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plus
+Encoding: 43 43 43
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:Jabp`L[Z
+EndImage
+Fore
+SplineSet
+12 29 m 29
+ 13 30 l 25
+ 17 30 l 25
+ 18 29 l 25
+ 18 18 l 25
+ 29 18 l 25
+ 30 17 l 25
+ 30 13 l 25
+ 29 12 l 25
+ 18 12 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 12 l 25
+ 1 12 l 25
+ 0 13 l 25
+ 0 17 l 25
+ 1 18 l 25
+ 12 18 l 25
+ 12 29 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: comma
+Encoding: 44 44 44
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 4 0 1 2 0 6 12 6 6 0
+mHj.hJ:KmMJ:IV"
+EndImage
+Fore
+SplineSet
+6 -11 m 1
+ 6 -5 l 1
+ 12 7 l 1
+ 12 11 l 1
+ 13 12 l 25
+ 17 12 l 25
+ 18 11 l 1
+ 18 5 l 1
+ 12 -7 l 1
+ 12 -11 l 1
+ 11 -12 l 25
+ 7 -12 l 25
+ 6 -11 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 45
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 1 0 1 2 0 0 18 6 6 0
+mHj.hJ:RCp
+EndImage
+Fore
+SplineSet
+0 17 m 25
+ 1 18 l 25
+ 29 18 l 25
+ 30 17 l 25
+ 30 13 l 25
+ 29 12 l 25
+ 1 12 l 25
+ 0 13 l 25
+ 0 17 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: period
+Encoding: 46 46 46
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 2 0 1 2 0 12 12 6 6 0
+mHj.hJ:N0#
+EndImage
+Fore
+SplineSet
+12 11 m 25
+ 13 12 l 25
+ 17 12 l 25
+ 18 11 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 11 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: slash
+Encoding: 47 47 47
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:Jab+@&1WJ:N.M
+EndImage
+Fore
+SplineSet
+6 -5 m 1
+ 6 4 l 1
+ 18 39 l 1
+ 18 47 l 1
+ 19 48 l 25
+ 23 48 l 25
+ 24 47 l 1
+ 24 38 l 1
+ 12 3 l 1
+ 12 -5 l 1
+ 11 -6 l 25
+ 7 -6 l 25
+ 6 -5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: zero
+Encoding: 48 48 48
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLo?,cDu]k<
+EndImage
+Fore
+SplineSet
+12 23 m 29
+ 13 24 l 25
+ 17 24 l 25
+ 18 23 l 25
+ 18 19 l 25
+ 17 18 l 25
+ 13 18 l 25
+ 12 19 l 25
+ 12 23 l 29
+10 36 m 1
+ 6 32 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+8 42 m 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: one
+Encoding: 49 49 49
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:M#M+<VdLp](9o
+EndImage
+Fore
+SplineSet
+18 41 m 1
+ 18 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 5 l 1
+ 1 6 l 1
+ 12 6 l 1
+ 12 30 l 1
+ 7 30 l 5
+ 6 31 l 1
+ 6 34 l 1
+ 14 42 l 1
+ 17 42 l 1
+ 18 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: two
+Encoding: 50 50 50
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTp#RGC"p](9o
+EndImage
+Fore
+SplineSet
+30 5 m 1
+ 30 1 l 1
+ 29 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 4 l 1
+ 24 28 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 4 30 l 1
+ 3 30 l 1
+ 0 33 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 10 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: three
+Encoding: 51 51 51
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTp#VZO?Du]k<
+EndImage
+Fore
+SplineSet
+12 23 m 1
+ 13 24 l 1
+ 20 24 l 1
+ 24 28 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 4 30 l 1
+ 3 30 l 1
+ 0 33 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 25 21 l 1
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 9 l 1
+ 3 12 l 1
+ 4 12 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 14 l 1
+ 20 18 l 1
+ 13 18 l 1
+ 12 19 l 1
+ 12 23 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: four
+Encoding: 52 52 52
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:K=M:ltG`&-)\1
+EndImage
+Fore
+SplineSet
+18 36 m 1
+ 16 36 l 1
+ 6 26 l 5
+ 6 18 l 5
+ 18 18 l 1
+ 18 36 l 1
+19 0 m 1
+ 18 1 l 1
+ 18 12 l 1
+ 2 12 l 1
+ 0 14 l 1
+ 0 28 l 1
+ 14 42 l 1
+ 22 42 l 1
+ 24 40 l 1
+ 24 18 l 1
+ 29 18 l 1
+ 30 17 l 1
+ 30 13 l 1
+ 29 12 l 1
+ 24 12 l 1
+ 24 1 l 1
+ 23 0 l 1
+ 19 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: five
+Encoding: 53 53 53
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFn-B;UDu]k<
+EndImage
+Fore
+SplineSet
+30 41 m 1
+ 30 37 l 1
+ 29 36 l 1
+ 6 36 l 1
+ 6 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 9 l 1
+ 3 12 l 1
+ 4 12 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 20 l 1
+ 20 24 l 1
+ 2 24 l 1
+ 0 26 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: six
+Encoding: 54 54 54
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpJFJANDu]k<
+EndImage
+Fore
+SplineSet
+6 18 m 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 14 l 1
+ 20 18 l 1
+ 6 18 l 1
+24 41 m 1
+ 24 37 l 1
+ 23 36 l 1
+ 16 36 l 1
+ 6 26 l 1
+ 6 24 l 1
+ 22 24 l 1
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 28 l 1
+ 14 42 l 1
+ 23 42 l 1
+ 24 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: seven
+Encoding: 55 55 55
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD#&0N)<+92BA
+EndImage
+Fore
+SplineSet
+7 0 m 1
+ 6 1 l 1
+ 6 16 l 1
+ 24 34 l 1
+ 24 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 32 l 1
+ 12 14 l 1
+ 12 1 l 1
+ 11 0 l 1
+ 7 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: eight
+Encoding: 56 56 56
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLiA0+Du]k<
+EndImage
+Fore
+SplineSet
+10 24 m 1
+ 20 24 l 1
+ 24 28 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 6 32 l 1
+ 6 28 l 1
+ 10 24 l 1
+6 10 m 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 14 l 1
+ 20 18 l 1
+ 10 18 l 1
+ 6 14 l 1
+ 6 10 l 1
+30 16 m 21
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 16 l 9
+ 5 21 l 25
+ 0 26 l 17
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 9
+ 25 21 l 25
+ 30 16 l 21
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: nine
+Encoding: 57 57 57
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLj02]Du]k<
+EndImage
+Fore
+Refer: 54 54 N -1 0 0 -1 30 42 2
+Validated: 1
+EndChar
+
+StartChar: colon
+Encoding: 58 58 58
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 5 0 1 2 0 12 30 6 6 0
+mHj.hJ:N0#!.]S"
+EndImage
+Fore
+Refer: 46 46 N 1 0 0 1 0 0 2
+Refer: 46 46 N -1 0 0 -1 30 30 2
+Validated: 1
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 59
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 7 0 1 2 0 6 30 6 6 0
+mHj.hJ:KmM!'if"J,fQL
+EndImage
+Fore
+Refer: 44 44 S 1 0 0 1 0 0 2
+Refer: 46 46 N -1 0 0 -1 30 30 2
+Validated: 1
+EndChar
+
+StartChar: less
+Encoding: 60 60 60
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:JJEJ7'2o
+EndImage
+Fore
+SplineSet
+0 16 m 1
+ 20 36 l 1
+ 21 36 l 1
+ 24 33 l 1
+ 24 32 l 1
+ 7 15 l 25
+ 24 -2 l 1
+ 24 -3 l 1
+ 21 -6 l 1
+ 20 -6 l 1
+ 0 14 l 1
+ 0 16 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: equal
+Encoding: 61 61 61
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 3 0 1 2 0 0 24 6 6 0
+mHj.hJ:RCpp](9o
+EndImage
+Fore
+Refer: 45 45 S 1 0 0 1 0 -6 2
+Refer: 45 45 N 1 0 0 1 0 6 2
+Validated: 1
+EndChar
+
+StartChar: greater
+Encoding: 62 62 62
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:PEh#Va$o
+EndImage
+Fore
+Refer: 60 60 S -1 1.22461e-016 -1.22461e-016 -1 30 30 2
+Validated: 1
+EndChar
+
+StartChar: question
+Encoding: 63 63 63
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTp#S8*Y+92BA
+EndImage
+Fore
+SplineSet
+12 5 m 29
+ 13 6 l 25
+ 17 6 l 25
+ 18 5 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 5 l 29
+3 30 m 1
+ 0 33 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 16 12 l 1
+ 15 12 l 1
+ 12 15 l 1
+ 12 16 l 1
+ 24 28 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 4 30 l 1
+ 3 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: at
+Encoding: 64 64 64
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpW49?fGQ7^D
+EndImage
+Fore
+SplineSet
+18 24 m 29
+ 18 18 l 25
+ 24 18 l 25
+ 24 24 l 25
+ 18 24 l 29
+30 5 m 1
+ 30 1 l 1
+ 29 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 14 l 1
+ 28 12 l 1
+ 14 12 l 1
+ 12 14 l 1
+ 12 28 l 1
+ 14 30 l 1
+ 24 30 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 6 32 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: A
+Encoding: 65 65 65
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpM"ld^L]@DT
+EndImage
+Fore
+SplineSet
+6 26 m 1
+ 6 18 l 1
+ 24 18 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 16 36 l 1
+ 6 26 l 1
+0 1 m 1
+ 0 28 l 1
+ 14 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 1 l 9
+ 29 0 l 25
+ 25 0 l 25
+ 24 1 l 25
+ 24 12 l 1
+ 6 12 l 1
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+ 0 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: B
+Encoding: 66 66 66
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:R-FM"$4Vn,NFg
+EndImage
+Fore
+SplineSet
+6 18 m 1
+ 6 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 14 l 1
+ 20 18 l 1
+ 6 18 l 1
+24 28 m 1
+ 24 32 l 1
+ 20 36 l 1
+ 6 36 l 1
+ 6 24 l 1
+ 20 24 l 1
+ 24 28 l 1
+30 16 m 17
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 22 42 l 1
+ 30 34 l 9
+ 30 26 l 25
+ 25 21 l 25
+ 30 16 l 17
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: C
+Encoding: 67 67 67
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpJ:N0+Du]k<
+EndImage
+Fore
+SplineSet
+0 28 m 1
+ 14 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 33 l 1
+ 27 30 l 1
+ 26 30 l 1
+ 20 36 l 1
+ 16 36 l 1
+ 6 26 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 26 12 l 1
+ 27 12 l 1
+ 30 9 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 28 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: D
+Encoding: 68 68 68
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:QR>LkpkKhuE`W
+EndImage
+Fore
+SplineSet
+6 36 m 1
+ 6 6 l 1
+ 14 6 l 1
+ 24 16 l 1
+ 24 26 l 1
+ 14 36 l 1
+ 6 36 l 1
+2 42 m 1
+ 16 42 l 1
+ 30 28 l 1
+ 30 14 l 1
+ 16 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 40 l 1
+ 2 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: E
+Encoding: 69 69 69
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFJFJ)>p](9o
+EndImage
+Fore
+SplineSet
+30 41 m 1
+ 30 37 l 1
+ 29 36 l 1
+ 6 36 l 1
+ 6 24 l 1
+ 23 24 l 1
+ 24 23 l 1
+ 24 19 l 1
+ 23 18 l 1
+ 6 18 l 1
+ 6 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: F
+Encoding: 70 70 70
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFJFJ)>J,fQL
+EndImage
+Fore
+SplineSet
+6 18 m 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+ 29 36 l 1
+ 6 36 l 1
+ 6 24 l 1
+ 23 24 l 1
+ 24 23 l 1
+ 24 19 l 1
+ 23 18 l 1
+ 6 18 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: G
+Encoding: 71 71 71
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpJ@LDkDu]k<
+EndImage
+Fore
+SplineSet
+18 17 m 1
+ 19 18 l 1
+ 28 18 l 1
+ 30 16 l 1
+ 30 2 l 1
+ 28 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 28 l 1
+ 14 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 33 l 1
+ 27 30 l 1
+ 26 30 l 1
+ 20 36 l 1
+ 16 36 l 1
+ 6 26 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 24 6 l 1
+ 24 12 l 1
+ 19 12 l 1
+ 18 13 l 1
+ 18 17 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: H
+Encoding: 72 72 72
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3M"ld^L]@DT
+EndImage
+Fore
+SplineSet
+1 0 m 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 24 l 1
+ 24 24 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 18 l 1
+ 6 18 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: I
+Encoding: 73 73 73
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD;+<VdLp](9o
+EndImage
+Fore
+SplineSet
+0 5 m 1
+ 1 6 l 1
+ 12 6 l 1
+ 12 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+ 29 36 l 1
+ 18 36 l 1
+ 18 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: J
+Encoding: 74 74 74
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 4 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MSM&.fBahuE`W
+EndImage
+Fore
+SplineSet
+12 41 m 1
+ 13 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 9 l 1
+ 3 12 l 1
+ 4 12 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 36 l 1
+ 13 36 l 1
+ 12 37 l 1
+ 12 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: K
+Encoding: 75 75 75
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3OPl4VL]@DT
+EndImage
+Fore
+SplineSet
+1 0 m 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 24 l 1
+ 14 24 l 1
+ 24 34 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 32 l 1
+ 19 21 l 25
+ 30 10 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 8 l 1
+ 14 18 l 1
+ 6 18 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: L
+Encoding: 76 76 76
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N0#J:N0#p](9o
+EndImage
+Fore
+SplineSet
+30 5 m 1
+ 30 1 l 1
+ 29 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: M
+Encoding: 77 77 77
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NI.W2PN.L]@DT
+EndImage
+Fore
+SplineSet
+14 24 m 1
+ 6 32 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 4 42 l 1
+ 15 31 l 25
+ 26 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 32 l 1
+ 16 24 l 1
+ 14 24 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: N
+Encoding: 78 78 78
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3aJbJ^L]@DT
+EndImage
+Fore
+SplineSet
+25 0 m 1
+ 24 1 l 1
+ 24 8 l 1
+ 6 26 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 34 l 1
+ 24 16 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: O
+Encoding: 79 79 79
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLkpkCDu]k<
+EndImage
+Fore
+SplineSet
+10 36 m 1
+ 6 32 l 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+8 42 m 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: P
+Encoding: 80 80 80
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:R-FM"#qFJ,fQL
+EndImage
+Fore
+SplineSet
+6 36 m 1
+ 6 24 l 1
+ 20 24 l 1
+ 24 28 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 6 36 l 1
+1 0 m 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 22 18 l 1
+ 6 18 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Q
+Encoding: 81 81 81
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 8 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLkpkKBF"S<
+EndImage
+Fore
+SplineSet
+10 36 m 1
+ 6 32 l 25
+ 6 10 l 25
+ 10 6 l 25
+ 14 6 l 25
+ 24 16 l 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+25 -6 m 1
+ 24 -5 l 1
+ 24 2 l 1
+ 21 5 l 25
+ 16 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 14 l 1
+ 25 9 l 25
+ 30 4 l 1
+ 30 -5 l 1
+ 29 -6 l 1
+ 25 -6 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: R
+Encoding: 82 82 82
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:R-FM"$L^L]@DT
+EndImage
+Fore
+SplineSet
+6 36 m 25
+ 6 24 l 1
+ 20 24 l 25
+ 24 28 l 25
+ 24 32 l 25
+ 20 36 l 1
+ 6 36 l 25
+25 0 m 1
+ 24 1 l 1
+ 24 8 l 1
+ 14 18 l 25
+ 6 18 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 22 18 l 25
+ 30 10 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: S
+Encoding: 83 83 83
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpJ8bdMDu]k<
+EndImage
+Fore
+SplineSet
+8 42 m 1
+ 22 42 l 1
+ 30 34 l 25
+ 30 33 l 1
+ 27 30 l 1
+ 26 30 l 25
+ 20 36 l 25
+ 10 36 l 25
+ 6 32 l 25
+ 6 28 l 25
+ 10 24 l 1
+ 22 24 l 25
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 25
+ 0 9 l 1
+ 3 12 l 1
+ 4 12 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 14 l 25
+ 20 18 l 1
+ 8 18 l 25
+ 0 26 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: T
+Encoding: 84 84 84
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD;+<VdL+92BA
+EndImage
+Fore
+SplineSet
+13 0 m 1
+ 12 1 l 1
+ 12 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+ 29 36 l 1
+ 18 36 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: U
+Encoding: 85 85 85
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3LkpkCDu]k<
+EndImage
+Fore
+SplineSet
+25 42 m 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 10 l 1
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 1
+ 24 41 l 1
+ 25 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: V
+Encoding: 86 86 86
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3Lknl(+92BA
+EndImage
+Fore
+SplineSet
+30 30 m 1
+ 18 6 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 6 l 1
+ 0 30 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 31 l 1
+ 15 13 l 1
+ 24 31 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: W
+Encoding: 87 87 87
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3Lo@7K:]LIq
+EndImage
+Fore
+SplineSet
+25 42 m 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 20 0 l 1
+ 15 5 l 25
+ 10 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 10 l 1
+ 9 7 l 25
+ 12 10 l 1
+ 12 23 l 1
+ 13 24 l 1
+ 17 24 l 1
+ 18 23 l 1
+ 18 10 l 1
+ 21 7 l 25
+ 24 10 l 1
+ 24 41 l 1
+ 25 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: X
+Encoding: 88 88 88
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3:`rSjL]@DT
+EndImage
+Fore
+SplineSet
+1 0 m 1
+ 0 1 l 1
+ 0 10 l 1
+ 11 21 l 25
+ 0 32 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 34 l 1
+ 15 25 l 25
+ 24 34 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 32 l 1
+ 19 21 l 25
+ 30 10 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 8 l 1
+ 15 17 l 25
+ 6 8 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Y
+Encoding: 89 89 89
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3:`pl'+92BA
+EndImage
+Fore
+SplineSet
+13 0 m 1
+ 12 1 l 1
+ 12 20 l 1
+ 0 32 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 34 l 1
+ 15 25 l 25
+ 24 34 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 32 l 1
+ 18 20 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Z
+Encoding: 90 90 90
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD#&0O5gp](9o
+EndImage
+Fore
+SplineSet
+30 1 m 1
+ 29 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 10 l 1
+ 24 34 l 1
+ 24 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 32 l 1
+ 6 8 l 25
+ 6 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 91
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:QR.J:N0#J:QPX
+EndImage
+Fore
+SplineSet
+24 47 m 1
+ 24 43 l 1
+ 23 42 l 1
+ 12 42 l 1
+ 12 0 l 1
+ 23 0 l 1
+ 24 -1 l 1
+ 24 -5 l 1
+ 23 -6 l 1
+ 8 -6 l 1
+ 6 -4 l 1
+ 6 46 l 1
+ 8 48 l 1
+ 23 48 l 1
+ 24 47 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: backslash
+Encoding: 92 92 92
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:N0#J3Z@b+<Vd,
+EndImage
+Fore
+SplineSet
+23 -6 m 1
+ 19 -6 l 1
+ 18 -5 l 1
+ 18 3 l 1
+ 6 38 l 1
+ 6 47 l 1
+ 7 48 l 1
+ 11 48 l 1
+ 12 47 l 1
+ 12 39 l 1
+ 24 4 l 1
+ 24 -5 l 1
+ 23 -6 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bracketright
+Encoding: 93 93 93
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 6 48 6 6 0
+mHj.hJ:QQ#+<VdL+<]SB
+EndImage
+Fore
+Refer: 91 91 S -1 1.22461e-016 -1.22461e-016 -1 30 42 2
+Validated: 1
+EndChar
+
+StartChar: asciicircum
+Encoding: 94 94 94
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 3 0 1 2 0 0 48 6 6 0
+mHj.hJ:Jb=L]@DT
+EndImage
+Fore
+SplineSet
+16 48 m 1
+ 30 34 l 25
+ 30 33 l 1
+ 27 30 l 1
+ 26 30 l 25
+ 15 41 l 25
+ 4 30 l 25
+ 3 30 l 1
+ 0 33 l 1
+ 0 34 l 25
+ 14 48 l 1
+ 16 48 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: underscore
+Encoding: 95 95 95
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 1 0 1 2 0 0 0 6 6 0
+mHj.hJ:RCp
+EndImage
+Fore
+Refer: 45 45 S 1 0 0 1 0 -18 2
+Validated: 1
+EndChar
+
+StartChar: grave
+Encoding: 96 96 96
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 3 0 1 2 0 6 48 6 6 0
+mHj.hJ:PF#+92BA
+EndImage
+Fore
+SplineSet
+9 48 m 1
+ 10 48 l 25
+ 24 34 l 25
+ 24 33 l 1
+ 21 30 l 1
+ 20 30 l 25
+ 6 44 l 25
+ 6 45 l 1
+ 9 48 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: a
+Encoding: 97 97 97
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MSEG_gSE
+EndImage
+Fore
+SplineSet
+10 12 m 1
+ 7 9 l 25
+ 10 6 l 1
+ 24 6 l 25
+ 24 12 l 25
+ 10 12 l 1
+12 25 m 1
+ 12 29 l 1
+ 13 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 2 l 1
+ 28 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 10 l 1
+ 8 18 l 25
+ 24 18 l 1
+ 24 20 l 25
+ 20 24 l 1
+ 13 24 l 1
+ 12 25 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: b
+Encoding: 98 98 98
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N0#n;)mVn,NFg
+EndImage
+Fore
+SplineSet
+6 24 m 25
+ 6 6 l 1
+ 20 6 l 25
+ 24 10 l 1
+ 24 20 l 25
+ 20 24 l 1
+ 6 24 l 25
+5 42 m 1
+ 6 41 l 1
+ 6 30 l 1
+ 22 30 l 25
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: c
+Encoding: 99 99 99
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTpJ:MkE
+EndImage
+Fore
+SplineSet
+30 1 m 1
+ 29 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 25
+ 30 21 l 1
+ 27 18 l 1
+ 26 18 l 25
+ 20 24 l 25
+ 10 24 l 25
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: d
+Encoding: 100 100 100
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:In2G_h03GQ7^D
+EndImage
+Fore
+SplineSet
+24 24 m 29
+ 10 24 l 1
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 25
+ 24 6 l 1
+ 24 24 l 29
+25 42 m 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 2 l 1
+ 28 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 25
+ 24 30 l 1
+ 24 41 l 1
+ 25 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: e
+Encoding: 101 101 101
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTppjdSh
+EndImage
+Fore
+SplineSet
+10 24 m 25
+ 6 20 l 25
+ 6 18 l 1
+ 24 18 l 25
+ 24 20 l 1
+ 20 24 l 25
+ 10 24 l 25
+24 1 m 1
+ 23 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 14 l 1
+ 28 12 l 1
+ 6 12 l 1
+ 6 10 l 25
+ 10 6 l 1
+ 23 6 l 1
+ 24 5 l 1
+ 24 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: f
+Encoding: 102 102 102
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:JIZp`L\%+92BA
+EndImage
+Fore
+SplineSet
+30 41 m 1
+ 30 37 l 1
+ 29 36 l 1
+ 22 36 l 1
+ 18 32 l 25
+ 18 24 l 1
+ 29 24 l 1
+ 30 23 l 1
+ 30 19 l 1
+ 29 18 l 1
+ 18 18 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 -0 l 1
+ 12 1 l 1
+ 12 18 l 1
+ 1 18 l 1
+ 0 19 l 1
+ 0 23 l 1
+ 1 24 l 1
+ 12 24 l 1
+ 12 34 l 25
+ 20 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: g
+Encoding: 103 103 103
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:Mm#Lkp9]n,NFg
+EndImage
+Fore
+SplineSet
+6 10 m 1
+ 10 6 l 25
+ 24 6 l 1
+ 24 20 l 25
+ 20 24 l 25
+ 10 24 l 25
+ 6 20 l 25
+ 6 10 l 1
+6 -7 m 1
+ 7 -6 l 1
+ 20 -6 l 1
+ 24 -2 l 25
+ 24 0 l 1
+ 8 0 l 25
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 -4 l 1
+ 22 -12 l 1
+ 7 -12 l 1
+ 6 -11 l 1
+ 6 -7 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: h
+Encoding: 104 104 104
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N0#n;)mVL]@DT
+EndImage
+Fore
+SplineSet
+25 0 m 1
+ 24 1 l 1
+ 24 20 l 1
+ 20 24 l 25
+ 6 24 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 30 l 1
+ 22 30 l 25
+ 30 22 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: i
+Encoding: 105 105 105
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:Klb^d(.M5QCca
+EndImage
+Fore
+SplineSet
+13 36 m 29
+ 12 37 l 29
+ 12 41 l 29
+ 13 42 l 29
+ 17 42 l 29
+ 18 41 l 29
+ 18 37 l 29
+ 17 36 l 29
+ 13 36 l 29
+13 -0 m 5
+ 12 1 l 5
+ 12 24 l 5
+ 7 24 l 5
+ 6 25 l 5
+ 6 29 l 5
+ 7 30 l 5
+ 16 30 l 5
+ 18 28 l 5
+ 18 1 l 5
+ 17 0 l 5
+ 13 -0 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: j
+Encoding: 106 106 106
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:JaB?m$R7+<\H"
+EndImage
+Fore
+SplineSet
+13 36 m 25
+ 12 37 l 25
+ 12 41 l 25
+ 13 42 l 25
+ 17 42 l 25
+ 18 41 l 25
+ 18 37 l 25
+ 17 36 l 25
+ 13 36 l 25
+18 28 m 5
+ 18 -4 l 1
+ 10 -12 l 1
+ 1 -12 l 1
+ 0 -11 l 1
+ 0 -7 l 1
+ 1 -6 l 1
+ 8 -6 l 1
+ 12 -2 l 25
+ 12 24 l 1
+ 7 24 l 1
+ 6 25 l 1
+ 6 29 l 1
+ 7 30 l 1
+ 16 30 l 1
+ 18 28 l 5
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 107
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N0#LlgPVL]@DT
+EndImage
+Fore
+SplineSet
+5 0 m 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 18 l 1
+ 14 18 l 25
+ 26 30 l 25
+ 27 30 l 1
+ 30 27 l 1
+ 30 26 l 1
+ 19 15 l 1
+ 30 4 l 1
+ 30 3 l 1
+ 27 0 l 1
+ 26 0 l 25
+ 14 12 l 25
+ 6 12 l 1
+ 6 1 l 1
+ 5 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: l
+Encoding: 108 108 108
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:PF#5X7S"5QCca
+EndImage
+Fore
+SplineSet
+6 41 m 1
+ 7 42 l 1
+ 16 42 l 1
+ 18 40 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 -0 l 1
+ 12 1 l 1
+ 12 36 l 1
+ 7 36 l 1
+ 6 37 l 1
+ 6 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: m
+Encoding: 109 109 109
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:Q"FW2QWp
+EndImage
+Fore
+SplineSet
+1 0 m 1
+ 0 1 l 1
+ 0 28 l 1
+ 2 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 20 l 1
+ 20 24 l 25
+ 18 24 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 24 l 1
+ 6 24 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: n
+Encoding: 110 110 110
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:R-FLkpie
+EndImage
+Fore
+SplineSet
+25 0 m 1
+ 24 1 l 1
+ 24 20 l 1
+ 20 24 l 25
+ 6 24 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 -0 l 1
+ 0 1 l 1
+ 0 28 l 1
+ 2 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: o
+Encoding: 111 111 111
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTpLkp!M
+EndImage
+Fore
+SplineSet
+10 24 m 25
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 20 l 25
+ 20 24 l 25
+ 10 24 l 25
+8 30 m 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: p
+Encoding: 112 112 112
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:R-FLktPNJ,fQL
+EndImage
+Fore
+SplineSet
+10 24 m 25
+ 6 20 l 25
+ 6 6 l 1
+ 20 6 l 25
+ 24 10 l 1
+ 24 20 l 25
+ 20 24 l 25
+ 10 24 l 25
+1 -12 m 1
+ 0 -11 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 25
+ 6 0 l 1
+ 6 -11 l 1
+ 5 -12 l 1
+ 1 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: q
+Encoding: 113 113 113
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:Mm#Lkp9]#QOi)
+EndImage
+Fore
+SplineSet
+10 24 m 25
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 1
+ 24 6 l 25
+ 24 20 l 1
+ 20 24 l 25
+ 10 24 l 25
+25 -12 m 1
+ 24 -11 l 1
+ 24 0 l 1
+ 8 0 l 25
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 -11 l 1
+ 29 -12 l 1
+ 25 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: r
+Encoding: 114 114 114
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:OlFJ:N.M
+EndImage
+Fore
+SplineSet
+1 -0 m 1
+ 0 1 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 22 l 1
+ 14 30 l 1
+ 22 30 l 1
+ 30 22 l 25
+ 30 21 l 1
+ 27 18 l 1
+ 26 18 l 25
+ 20 24 l 25
+ 16 24 l 25
+ 6 14 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: s
+Encoding: 115 115 115
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MlpE!Yq5
+EndImage
+Fore
+SplineSet
+0 5 m 1
+ 1 6 l 1
+ 20 6 l 1
+ 23 9 l 25
+ 20 12 l 1
+ 8 12 l 25
+ 0 20 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 1
+ 10 24 l 1
+ 7 21 l 25
+ 10 18 l 1
+ 22 18 l 25
+ 30 10 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: t
+Encoding: 116 116 116
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:KmMpcq)02uipY
+EndImage
+Fore
+SplineSet
+30 1 m 1
+ 29 0 l 1
+ 14 0 l 1
+ 6 8 l 25
+ 6 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ -0 29 l 1
+ 1 30 l 1
+ 6 30 l 1
+ 6 41 l 1
+ 7 42 l 1
+ 11 42 l 1
+ 12 41 l 1
+ 12 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 1
+ 12 24 l 1
+ 12 10 l 25
+ 16 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: u
+Encoding: 117 117 117
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3Lkp9U
+EndImage
+Fore
+SplineSet
+29 30 m 1
+ 30 29 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 10 l 1
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: v
+Encoding: 118 118 118
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3Leo2o
+EndImage
+Fore
+SplineSet
+30 24 m 1
+ 18 0 l 1
+ 12 0 l 1
+ 0 24 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 25 l 1
+ 15 7 l 1
+ 24 25 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 24 l 1
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 119
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NHSW)-:j
+EndImage
+Fore
+SplineSet
+29 30 m 1
+ 30 29 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 20 0 l 1
+ 15 5 l 25
+ 10 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 10 l 1
+ 9 7 l 25
+ 12 10 l 1
+ 12 23 l 1
+ 13 24 l 1
+ 17 24 l 1
+ 18 23 l 1
+ 18 10 l 1
+ 21 7 l 25
+ 24 10 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: x
+Encoding: 120 120 120
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NGP+Adjo
+EndImage
+Fore
+SplineSet
+30 4 m 29
+ 30 3 l 1
+ 27 0 l 1
+ 26 0 l 1
+ 15 11 l 25
+ 4 0 l 1
+ 3 0 l 1
+ 0 3 l 1
+ 0 4 l 1
+ 11 15 l 25
+ 0 26 l 1
+ 0 27 l 1
+ 3 30 l 1
+ 4 30 l 25
+ 15 19 l 25
+ 26 30 l 25
+ 27 30 l 1
+ 30 27 l 1
+ 30 26 l 25
+ 19 15 l 25
+ 30 4 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: y
+Encoding: 121 121 121
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3Lkp9]n,NFg
+EndImage
+Fore
+SplineSet
+1 -6 m 1
+ 9 -6 l 1
+ 11 -2 l 1
+ 11 1 l 1
+ 0 23 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 24 l 1
+ 15 6 l 1
+ 24 24 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 23 l 1
+ 13 -11 l 1
+ 12 -12 l 1
+ 1 -12 l 1
+ 0 -11 l 1
+ 0 -7 l 1
+ 1 -6 l 1
+EndSplineSet
+EndChar
+
+StartChar: z
+Encoding: 122 122 122
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:RD++@,]%
+EndImage
+Fore
+SplineSet
+30 5 m 1
+ 30 1 l 1
+ 29 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 4 l 1
+ 20 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 28 30 l 1
+ 30 28 l 1
+ 30 26 l 1
+ 10 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceleft
+Encoding: 123 123 123
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 48 6 6 0
+mHj.hJ:JIZ+<\HB+<VL$
+EndImage
+Fore
+SplineSet
+30 -5 m 1
+ 29 -6 l 1
+ 20 -6 l 1
+ 12 2 l 25
+ 12 14 l 1
+ 8 18 l 1
+ 1 18 l 1
+ 0 19 l 1
+ 0 23 l 1
+ 1 24 l 1
+ 8 24 l 1
+ 12 28 l 1
+ 12 40 l 25
+ 20 48 l 1
+ 29 48 l 1
+ 30 47 l 1
+ 30 43 l 1
+ 29 42 l 1
+ 22 42 l 1
+ 18 38 l 1
+ 18 26 l 25
+ 13 21 l 25
+ 18 16 l 1
+ 18 4 l 1
+ 22 0 l 1
+ 29 0 l 1
+ 30 -1 l 1
+ 30 -5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: bar
+Encoding: 124 124 124
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 9 0 1 2 0 12 48 6 6 0
+mHj.hJ:N0#J:N0#J:N.M
+EndImage
+Fore
+SplineSet
+17 -6 m 1
+ 13 -6 l 1
+ 12 -5 l 1
+ 12 47 l 1
+ 13 48 l 1
+ 17 48 l 1
+ 18 47 l 1
+ 18 -5 l 1
+ 17 -6 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: braceright
+Encoding: 125 125 125
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 48 6 6 0
+mHj.hJ:PEX+<VLD+<\H"
+EndImage
+Fore
+Refer: 123 123 S -1 1.22461e-016 -1.22461e-016 -1 30 42 2
+Validated: 1
+EndChar
+
+StartChar: asciitilde
+Encoding: 126 126 126
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 3 0 1 2 0 0 24 6 6 0
+mHj.hJ:M=3YQ+Y'
+EndImage
+Fore
+SplineSet
+5 6 m 1
+ 1 6 l 1
+ 0 7 l 1
+ 0 16 l 1
+ 8 24 l 1
+ 10 24 l 1
+ 21 13 l 25
+ 24 16 l 1
+ 24 23 l 1
+ 25 24 l 1
+ 29 24 l 1
+ 30 23 l 1
+ 30 14 l 1
+ 22 6 l 1
+ 20 6 l 1
+ 9 17 l 25
+ 6 14 l 1
+ 6 7 l 1
+ 5 6 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni007F
+Encoding: 127 127 127
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 6 12 0 1 2 0 0 54 6 6 0
+mHj.hJ:RRqr9WJEjQugBr;6Np
+EndImage
+Fore
+SplineSet
+18 1 m 1
+ 19 0 l 1
+ 21 0 l 1
+ 36 15 l 1
+ 36 -13 l 1
+ 31 -18 l 1
+ 5 -18 l 1
+ 0 -13 l 1
+ 0 12 l 1
+ 18 12 l 1
+ 18 1 l 1
+18 35 m 1
+ 18 24 l 1
+ 0 24 l 1
+ 0 49 l 1
+ 5 54 l 1
+ 31 54 l 1
+ 36 49 l 1
+ 36 21 l 1
+ 21 36 l 1
+ 19 36 l 1
+ 18 35 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotesinglbase
+Encoding: 128 8218 128
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 4 0 1 2 0 6 12 6 6 0
+mHj.hJ:KmM5_&h7
+EndImage
+Fore
+SplineSet
+17 12 m 1
+ 18 11 l 1
+ 18 -4 l 1
+ 10 -12 l 25
+ 9 -12 l 1
+ 6 -9 l 1
+ 6 -8 l 25
+ 12 -2 l 1
+ 12 11 l 1
+ 13 12 l 1
+ 17 12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quotedblbase
+Encoding: 129 8222 129
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 4 4 0 1 2 0 0 12 6 6 0
+mHj.hJ:LHm:nRdg
+EndImage
+Fore
+Refer: 128 8218 S 1 0 0 1 6 0 2
+Refer: 128 8218 N 1 0 0 1 -6 0 2
+Validated: 1
+EndChar
+
+StartChar: ellipsis
+Encoding: 130 8230 130
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 2 0 1 2 0 0 12 6 6 0
+mHj.hJ:OSs
+EndImage
+Fore
+Refer: 46 46 S 1 0 0 1 0 0 2
+Refer: 46 46 N 1 0 0 1 12 0 2
+Refer: 46 46 N 1 0 0 1 -12 0 2
+Validated: 1
+EndChar
+
+StartChar: dagger
+Encoding: 131 8224 131
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Jabp`L\%+92BA
+EndImage
+Fore
+SplineSet
+17 -0 m 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 24 l 1
+ 1 24 l 1
+ -0 25 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 12 30 l 1
+ 12 41 l 1
+ 13 42 l 1
+ 17 42 l 1
+ 18 41 l 1
+ 18 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 1
+ 18 24 l 1
+ 18 1 l 1
+ 17 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: daggerdbl
+Encoding: 132 8225 132
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Jabp`T>S+92BA
+EndImage
+Fore
+SplineSet
+0 25 m 1
+ 0 29 l 1
+ 1 30 l 1
+ 12 30 l 1
+ 12 41 l 1
+ 13 42 l 1
+ 17 42 l 1
+ 18 41 l 1
+ 18 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 25 l 1
+ 29 24 l 1
+ 18 24 l 1
+ 18 18 l 1
+ 29 18 l 1
+ 30 17 l 1
+ 30 13 l 1
+ 29 12 l 1
+ 18 12 l 1
+ 18 1 l 1
+ 17 -0 l 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 12 l 1
+ 1 12 l 1
+ -0 13 l 1
+ 0 17 l 1
+ 1 18 l 1
+ 12 18 l 1
+ 12 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: Euro
+Encoding: 133 8364 133
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:KUEn3HJ.2uipY
+EndImage
+Fore
+SplineSet
+30 37 m 1
+ 29 36 l 1
+ 16 36 l 1
+ 12 32 l 25
+ 12 30 l 1
+ 23 30 l 1
+ 24 29 l 1
+ 24 25 l 1
+ 23 24 l 1
+ 12 24 l 1
+ 12 18 l 1
+ 23 18 l 1
+ 24 17 l 1
+ 24 13 l 1
+ 23 12 l 1
+ 12 12 l 1
+ 12 10 l 25
+ 16 6 l 1
+ 29 6 l 1
+ 30 5 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 14 0 l 1
+ 6 8 l 25
+ 6 12 l 1
+ 1 12 l 1
+ 0 13 l 1
+ 0 17 l 1
+ 1 18 l 1
+ 6 18 l 1
+ 6 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 6 30 l 1
+ 6 34 l 25
+ 14 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: perthousand
+Encoding: 134 8240 134
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:PGN(uQ6U?iU0,
+EndImage
+Fore
+SplineSet
+1 24 m 29
+ 29 24 l 25
+ 30 23 l 25
+ 30 19 l 25
+ 29 18 l 25
+ 1 18 l 25
+ 0 19 l 25
+ 0 23 l 25
+ 1 24 l 29
+18 9 m 25
+ 21 12 l 25
+ 27 12 l 25
+ 30 9 l 25
+ 30 3 l 25
+ 27 0 l 25
+ 21 0 l 25
+ 18 3 l 25
+ 18 9 l 25
+0 9 m 25
+ 3 12 l 25
+ 9 12 l 25
+ 12 9 l 25
+ 12 3 l 25
+ 9 0 l 25
+ 3 0 l 25
+ 0 3 l 25
+ 0 9 l 25
+6 39 m 25
+ 9 42 l 25
+ 15 42 l 25
+ 18 39 l 25
+ 18 33 l 25
+ 15 30 l 25
+ 9 30 l 25
+ 6 33 l 25
+ 6 39 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: guilsinglleft
+Encoding: 135 8249 135
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 5 0 1 2 0 6 30 6 6 0
+mHj.hJ:Jb-J3Y4W
+EndImage
+Fore
+SplineSet
+6 16 m 1
+ 20 30 l 25
+ 21 30 l 1
+ 24 27 l 1
+ 24 26 l 25
+ 13 15 l 25
+ 24 4 l 25
+ 24 3 l 1
+ 21 0 l 1
+ 20 0 l 25
+ 6 14 l 1
+ 6 16 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: quoteleft
+Encoding: 136 8216 136
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 4 0 1 2 0 12 48 6 6 0
+mHj.hJ:Kn8J:IV"
+EndImage
+Fore
+Refer: 128 8218 S -1 1.22461e-016 -1.22461e-016 -1 30 36 2
+Validated: 1
+EndChar
+
+StartChar: quoteright
+Encoding: 137 8217 137
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 2 4 0 1 2 0 6 48 6 6 0
+mHj.hJ:KmM5_&h7
+EndImage
+Fore
+Refer: 128 8218 S 1 0 0 1 0 36 2
+Validated: 1
+EndChar
+
+StartChar: quotedblleft
+Encoding: 138 8220 138
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 4 4 0 1 2 0 6 48 6 6 0
+mHj.hJ:LIhTV)8b
+EndImage
+Fore
+Refer: 128 8218 S -1 1.22461e-016 -1.22461e-016 -1 36 36 2
+Refer: 128 8218 N -1 1.22461e-016 -1.22461e-016 -1 24 36 2
+Validated: 1
+EndChar
+
+StartChar: quotedblright
+Encoding: 139 8221 139
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 4 4 0 1 2 0 0 48 6 6 0
+mHj.hJ:LHm:nRdg
+EndImage
+Fore
+Refer: 128 8218 S 1 0 0 1 6 36 2
+Refer: 128 8218 N 1 0 0 1 -6 36 2
+Validated: 1
+EndChar
+
+StartChar: bullet
+Encoding: 140 8226 140
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MV6q"Se.
+EndImage
+Fore
+SplineSet
+0 21 m 1
+ 9 30 l 1
+ 21 30 l 1
+ 30 21 l 1
+ 30 9 l 1
+ 21 0 l 1
+ 9 0 l 1
+ 0 9 l 1
+ 0 21 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: endash
+Encoding: 141 8211 141
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 1 0 1 2 0 6 18 6 6 0
+mHj.hJ:QPX
+EndImage
+Fore
+SplineSet
+6 17 m 29
+ 7 18 l 25
+ 23 18 l 25
+ 24 17 l 25
+ 24 13 l 25
+ 23 12 l 25
+ 7 12 l 25
+ 6 13 l 25
+ 6 17 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: emdash
+Encoding: 142 8212 142
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 4 1 0 1 2 0 6 18 6 6 0
+mHj.hJ:R+h
+EndImage
+Fore
+SplineSet
+6 17 m 29
+ 7 18 l 25
+ 29 18 l 25
+ 30 17 l 25
+ 30 13 l 25
+ 29 12 l 25
+ 7 12 l 25
+ 6 13 l 25
+ 6 17 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: NameMe.152
+Encoding: 143 -1 143
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 11 0 1 2 0 0 54 6 6 0
+mHj.hJ:NFuL`hKrL`hKrL]@DT
+EndImage
+Fore
+SplineSet
+25 -6 m 25
+ 29 -6 l 25
+ 30 -7 l 25
+ 30 -11 l 25
+ 29 -12 l 25
+ 25 -12 l 25
+ 24 -11 l 25
+ 24 -7 l 25
+ 25 -6 l 25
+1 -6 m 25
+ 5 -6 l 25
+ 6 -7 l 25
+ 6 -11 l 25
+ 5 -12 l 25
+ 1 -12 l 25
+ 0 -11 l 25
+ 0 -7 l 25
+ 1 -6 l 25
+25 6 m 25
+ 29 6 l 25
+ 30 5 l 25
+ 30 1 l 25
+ 29 0 l 25
+ 25 0 l 25
+ 24 1 l 25
+ 24 5 l 25
+ 25 6 l 25
+13 0 m 25
+ 17 0 l 25
+ 18 -1 l 25
+ 18 -5 l 25
+ 17 -6 l 25
+ 13 -6 l 25
+ 12 -5 l 25
+ 12 -1 l 25
+ 13 0 l 25
+1 6 m 25
+ 5 6 l 25
+ 6 5 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+ 0 1 l 25
+ 0 5 l 25
+ 1 6 l 25
+25 18 m 25
+ 29 18 l 25
+ 30 17 l 25
+ 30 13 l 25
+ 29 12 l 25
+ 25 12 l 25
+ 24 13 l 25
+ 24 17 l 25
+ 25 18 l 25
+13 12 m 25
+ 17 12 l 25
+ 18 11 l 25
+ 18 7 l 25
+ 17 6 l 25
+ 13 6 l 25
+ 12 7 l 25
+ 12 11 l 25
+ 13 12 l 25
+1 18 m 25
+ 5 18 l 25
+ 6 17 l 25
+ 6 13 l 25
+ 5 12 l 25
+ 1 12 l 25
+ 0 13 l 25
+ 0 17 l 25
+ 1 18 l 25
+25 30 m 25
+ 29 30 l 25
+ 30 29 l 25
+ 30 25 l 25
+ 29 24 l 25
+ 25 24 l 25
+ 24 25 l 25
+ 24 29 l 25
+ 25 30 l 25
+13 24 m 25
+ 17 24 l 25
+ 18 23 l 25
+ 18 19 l 25
+ 17 18 l 25
+ 13 18 l 25
+ 12 19 l 25
+ 12 23 l 25
+ 13 24 l 25
+1 30 m 25
+ 5 30 l 25
+ 6 29 l 25
+ 6 25 l 25
+ 5 24 l 25
+ 1 24 l 25
+ 0 25 l 25
+ 0 29 l 25
+ 1 30 l 25
+25 42 m 25
+ 29 42 l 25
+ 30 41 l 25
+ 30 37 l 25
+ 29 36 l 25
+ 25 36 l 25
+ 24 37 l 25
+ 24 41 l 25
+ 25 42 l 25
+13 36 m 25
+ 17 36 l 25
+ 18 35 l 25
+ 18 31 l 25
+ 17 30 l 25
+ 13 30 l 25
+ 12 31 l 25
+ 12 35 l 25
+ 13 36 l 25
+1 42 m 25
+ 5 42 l 25
+ 6 41 l 25
+ 6 37 l 25
+ 5 36 l 25
+ 1 36 l 25
+ 0 37 l 25
+ 0 41 l 25
+ 1 42 l 25
+25 54 m 25
+ 29 54 l 25
+ 30 53 l 25
+ 30 49 l 25
+ 29 48 l 25
+ 25 48 l 25
+ 24 49 l 25
+ 24 53 l 25
+ 25 54 l 25
+13 48 m 25
+ 17 48 l 25
+ 18 47 l 25
+ 18 43 l 25
+ 17 42 l 25
+ 13 42 l 25
+ 12 43 l 25
+ 12 47 l 25
+ 13 48 l 25
+1 54 m 25
+ 5 54 l 25
+ 6 53 l 25
+ 6 49 l 25
+ 5 48 l 25
+ 1 48 l 25
+ 0 49 l 25
+ 0 53 l 25
+ 1 54 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: trademark
+Encoding: 144 8482 144
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 6 0 1 2 0 0 48 6 6 0
+mHj.hJ:QQC5k(_N
+EndImage
+Fore
+SplineSet
+7 30 m 25
+ 6 31 l 25
+ 6 42 l 25
+ 1 42 l 25
+ 0 43 l 25
+ 0 47 l 25
+ 1 48 l 25
+ 17 48 l 25
+ 18 47 l 25
+ 19 48 l 25
+ 35 48 l 25
+ 36 47 l 25
+ 36 31 l 25
+ 35 30 l 25
+ 31 30 l 25
+ 30 31 l 25
+ 30 37 l 25
+ 29 36 l 25
+ 25 36 l 25
+ 24 37 l 25
+ 24 31 l 25
+ 23 30 l 25
+ 19 30 l 25
+ 18 31 l 25
+ 18 43 l 25
+ 17 42 l 25
+ 12 42 l 25
+ 12 31 l 25
+ 11 30 l 25
+ 7 30 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: guilsinglright
+Encoding: 145 8250 145
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 5 0 1 2 0 6 30 6 6 0
+mHj.hJ:N/8+@(GW
+EndImage
+Fore
+Refer: 135 8249 S -1 1.22461e-016 -1.22461e-016 -1 30 30 2
+Validated: 1
+EndChar
+
+StartChar: currency
+Encoding: 147 164 146
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NGp:iM3j
+EndImage
+Fore
+SplineSet
+12 18 m 25
+ 12 12 l 25
+ 18 12 l 25
+ 18 18 l 25
+ 12 18 l 25
+3 30 m 1
+ 4 30 l 25
+ 10 24 l 25
+ 20 24 l 25
+ 26 30 l 25
+ 27 30 l 1
+ 30 27 l 1
+ 30 26 l 25
+ 24 20 l 25
+ 24 10 l 25
+ 30 4 l 25
+ 30 3 l 1
+ 27 0 l 1
+ 26 0 l 25
+ 20 6 l 25
+ 10 6 l 25
+ 4 0 l 25
+ 3 0 l 1
+ 0 3 l 1
+ 0 4 l 25
+ 6 10 l 25
+ 6 20 l 25
+ 0 26 l 25
+ 0 27 l 1
+ 3 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: brokenbar
+Encoding: 148 166 147
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 1 9 0 1 2 0 12 48 6 6 0
+mHj.hJ:N0#J:IWMJ:N.M
+EndImage
+Fore
+SplineSet
+13 -6 m 25
+ 12 -5 l 25
+ 12 17 l 25
+ 13 18 l 25
+ 17 18 l 25
+ 18 17 l 25
+ 18 -5 l 25
+ 17 -6 l 25
+ 13 -6 l 25
+13 24 m 25
+ 12 25 l 25
+ 12 47 l 25
+ 13 48 l 25
+ 17 48 l 25
+ 18 47 l 25
+ 18 25 l 25
+ 17 24 l 25
+ 13 24 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: section
+Encoding: 149 167 148
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:M$Xi1T!N^]4?7
+EndImage
+Fore
+SplineSet
+12 24 m 1
+ 12 18 l 25
+ 18 18 l 1
+ 18 24 l 25
+ 12 24 l 1
+24 37 m 1
+ 23 36 l 1
+ 16 36 l 1
+ 12 32 l 25
+ 12 30 l 1
+ 22 30 l 1
+ 24 28 l 1
+ 24 8 l 1
+ 16 0 l 1
+ 7 0 l 1
+ 6 1 l 1
+ 6 5 l 1
+ 7 6 l 1
+ 14 6 l 1
+ 18 10 l 25
+ 18 12 l 1
+ 8 12 l 1
+ 6 14 l 1
+ 6 34 l 1
+ 14 42 l 1
+ 23 42 l 1
+ 24 41 l 1
+ 24 37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10023
+Encoding: 150 1025 149
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 54 6 6 0
+mHj.hJ:LGrpjdnaJ:RCp
+EndImage
+Fore
+SplineSet
+19 48 m 25
+ 18 49 l 25
+ 18 53 l 25
+ 19 54 l 25
+ 23 54 l 25
+ 24 53 l 25
+ 24 49 l 25
+ 23 48 l 25
+ 19 48 l 25
+7 48 m 25
+ 6 49 l 25
+ 6 53 l 25
+ 7 54 l 25
+ 11 54 l 25
+ 12 53 l 25
+ 12 49 l 25
+ 11 48 l 25
+ 7 48 l 25
+EndSplineSet
+Refer: 170 1045 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: copyright
+Encoding: 151 169 150
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpprN5dDu]k<
+EndImage
+Fore
+SplineSet
+6 13 m 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 13 l 9
+ 23 12 l 25
+ 7 12 l 25
+ 6 13 l 1
+24 17 m 1
+ 24 25 l 9
+ 23 24 l 25
+ 12 24 l 25
+ 12 18 l 25
+ 23 18 l 25
+ 24 17 l 1
+24 29 m 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 6 32 l 1
+ 6 29 l 9
+ 7 30 l 25
+ 23 30 l 25
+ 24 29 l 1
+8 42 m 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: guillemotleft
+Encoding: 152 171 151
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:K%ETMR$:
+EndImage
+Fore
+Refer: 135 8249 S 1 0 0 1 6 0 2
+Refer: 135 8249 N 1 0 0 1 -6 0 2
+Validated: 1
+EndChar
+
+StartChar: logicalnot
+Encoding: 153 172 152
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 3 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD##QOi)
+EndImage
+Fore
+SplineSet
+0 41 m 29
+ 1 42 l 25
+ 29 42 l 25
+ 30 41 l 25
+ 30 25 l 25
+ 29 24 l 25
+ 25 24 l 25
+ 24 25 l 25
+ 24 36 l 25
+ 1 36 l 25
+ 0 37 l 25
+ 0 41 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: uni00AD
+Encoding: 154 173 153
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:K<r?i]s%:iK52
+EndImage
+Fore
+SplineSet
+6 -11 m 25
+ 6 5 l 25
+ 12 5 l 25
+ 12 -1 l 25
+ 18 -1 l 25
+ 18 5 l 25
+ 24 5 l 25
+ 24 -1 l 25
+ 24 -11 l 25
+ 18 -11 l 25
+ 18 -5 l 25
+ 12 -5 l 25
+ 12 -11 l 25
+ 6 -11 l 25
+24 41 m 25
+ 24 37 l 1
+ 16 37 l 1
+ 16 35 l 1
+ 20 35 l 1
+ 20 25 l 1
+ 6 25 l 1
+ 6 29 l 1
+ 14 29 l 1
+ 14 31 l 1
+ 10 31 l 1
+ 10 41 l 1
+ 24 41 l 25
+EndSplineSet
+Refer: 45 45 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: registered
+Encoding: 155 174 154
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTppup@dDu]k<
+EndImage
+Fore
+SplineSet
+6 13 m 1
+ 6 10 l 1
+ 10 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 15 l 1
+ 21 12 l 1
+ 20 12 l 1
+ 14 18 l 9
+ 12 18 l 25
+ 12 13 l 25
+ 11 12 l 25
+ 7 12 l 25
+ 6 13 l 1
+24 16 m 1
+ 24 26 l 1
+ 19 21 l 1
+ 24 16 l 1
+24 29 m 1
+ 24 32 l 1
+ 20 36 l 1
+ 10 36 l 1
+ 6 32 l 1
+ 6 29 l 9
+ 7 30 l 25
+ 23 30 l 25
+ 24 29 l 1
+8 42 m 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10056
+Encoding: 156 1031 155
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 54 6 6 0
+mHj.hJ:LGrp`L\%+<^FZ
+EndImage
+Fore
+SplineSet
+19 48 m 25
+ 18 49 l 25
+ 18 53 l 25
+ 19 54 l 25
+ 23 54 l 25
+ 24 53 l 25
+ 24 49 l 25
+ 23 48 l 25
+ 19 48 l 25
+7 48 m 25
+ 6 49 l 25
+ 6 53 l 25
+ 7 54 l 25
+ 11 54 l 25
+ 12 53 l 25
+ 12 49 l 25
+ 11 48 l 25
+ 7 48 l 25
+EndSplineSet
+Refer: 73 73 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: degree
+Encoding: 157 176 156
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 3 0 1 2 0 6 48 6 6 0
+mHj.hJ:QRNhuE`W
+EndImage
+Fore
+SplineSet
+12 42 m 1
+ 12 36 l 25
+ 18 36 l 1
+ 18 42 l 25
+ 12 42 l 1
+19 48 m 25
+ 24 43 l 25
+ 24 35 l 25
+ 19 30 l 25
+ 11 30 l 25
+ 6 35 l 25
+ 6 43 l 25
+ 11 48 l 25
+ 19 48 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: plusminus
+Encoding: 158 177 157
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 6 0 1 2 0 0 36 6 6 0
+mHj.hJ:Jabp`L^S
+EndImage
+Fore
+Refer: 45 45 S 1 0 0 1 0 -12 2
+Refer: 43 43 N 1 0 0 1 0 6 2
+Validated: 5
+EndChar
+
+StartChar: uni00B5
+Encoding: 159 181 158
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3LrcfNJ,fQL
+EndImage
+Fore
+SplineSet
+5 -12 m 1
+ 1 -12 l 1
+ 0 -11 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 16 l 1
+ 16 6 l 25
+ 20 6 l 25
+ 24 10 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 14 0 l 1
+ 6 8 l 1
+ 6 -11 l 1
+ 5 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: paragraph
+Encoding: 160 182 159
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Mn.kic\.-ia5I
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 36 l 1
+ 18 36 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 8 l 1
+ 0 20 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: periodcentered
+Encoding: 161 183 160
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 3 0 1 2 0 6 24 6 6 0
+mHj.hJ:KoC5QCca
+EndImage
+Fore
+SplineSet
+6 16 m 1
+ 14 24 l 1
+ 16 24 l 1
+ 24 16 l 1
+ 24 14 l 1
+ 16 6 l 1
+ 14 6 l 1
+ 6 14 l 1
+ 6 16 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10071
+Encoding: 162 1105 161
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:LGrE/=:>GQ7^D
+EndImage
+Fore
+SplineSet
+19 36 m 29
+ 18 37 l 25
+ 18 41 l 25
+ 19 42 l 25
+ 23 42 l 25
+ 24 41 l 25
+ 24 37 l 25
+ 23 36 l 25
+ 19 36 l 29
+7 36 m 25
+ 6 37 l 25
+ 6 41 l 25
+ 7 42 l 25
+ 11 42 l 25
+ 12 41 l 25
+ 12 37 l 25
+ 11 36 l 25
+ 7 36 l 25
+EndSplineSet
+Refer: 202 1077 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii61352
+Encoding: 163 8470 162
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 8 0 1 2 0 0 48 6 6 0
+mHj.hJ:O<&\D[/?TV)8b
+EndImage
+Fore
+SplineSet
+18 30 m 29
+ 24 30 l 25
+ 24 36 l 25
+ 18 36 l 25
+ 18 30 l 29
+13 24 m 25
+ 12 25 l 25
+ 12 41 l 25
+ 13 42 l 25
+ 29 42 l 25
+ 30 41 l 25
+ 30 25 l 25
+ 29 24 l 25
+ 13 24 l 25
+1 0 m 25
+ 0 1 l 25
+ 0 17 l 25
+ 1 18 l 25
+ 17 18 l 25
+ 18 17 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 12 l 25
+ 6 12 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: guillemotright
+Encoding: 164 187 163
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:O:h-r?Q:
+EndImage
+Fore
+Refer: 145 8250 S 1 0 0 1 6 0 2
+Refer: 145 8250 N 1 0 0 1 -6 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10104
+Encoding: 165 1111 164
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 3 7 0 1 2 0 6 42 6 6 0
+mHj.hJ:O9m^d(.M5QCca
+EndImage
+Fore
+SplineSet
+19 36 m 25
+ 18 37 l 25
+ 18 41 l 25
+ 19 42 l 25
+ 23 42 l 25
+ 24 41 l 25
+ 24 37 l 25
+ 23 36 l 25
+ 19 36 l 25
+7 36 m 25
+ 6 37 l 25
+ 6 41 l 25
+ 7 42 l 25
+ 11 42 l 25
+ 12 41 l 25
+ 12 37 l 25
+ 11 36 l 25
+ 7 36 l 25
+13 -0 m 1
+ 12 1 l 1
+ 12 24 l 1
+ 7 24 l 1
+ 6 25 l 1
+ 6 29 l 1
+ 7 30 l 1
+ 16 30 l 1
+ 18 28 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10017
+Encoding: 166 1040 165
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpM"ld^L]@DT
+EndImage
+Fore
+Refer: 65 65 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10018
+Encoding: 167 1041 166
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFJFJANn,NFg
+EndImage
+Fore
+SplineSet
+6 18 m 1
+ 6 6 l 25
+ 20 6 l 1
+ 24 10 l 25
+ 24 14 l 25
+ 20 18 l 25
+ 6 18 l 1
+0 2 m 1
+ 0 40 l 1
+ 2 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+ 29 36 l 1
+ 6 36 l 1
+ 6 24 l 1
+ 22 24 l 1
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10019
+Encoding: 168 1042 167
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:R-FM"$4Vn,NFg
+EndImage
+Fore
+Refer: 66 66 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10020
+Encoding: 169 1043 168
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFJ:N0#J,fQL
+EndImage
+Fore
+SplineSet
+30 37 m 1
+ 29 36 l 1
+ 6 36 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10021
+Encoding: 170 1044 169
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:MT8:f'tbpkX_+
+EndImage
+Fore
+SplineSet
+16 36 m 25
+ 12 32 l 25
+ 12 6 l 25
+ 24 6 l 25
+ 24 36 l 25
+ 16 36 l 25
+35 -12 m 5
+ 31 -12 l 1
+ 30 -11 l 1
+ 30 0 l 1
+ 6 0 l 1
+ 6 -11 l 1
+ 5 -12 l 1
+ 1 -12 l 1
+ 0 -11 l 1
+ 0 4 l 1
+ 2 6 l 1
+ 6 6 l 1
+ 6 34 l 25
+ 14 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 6 l 1
+ 34 6 l 1
+ 36 4 l 1
+ 36 -11 l 1
+ 35 -12 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10022
+Encoding: 171 1045 170
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:REFJFJ)>p](9o
+EndImage
+Fore
+Refer: 69 69 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10024
+Encoding: 172 1046 171
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:OSsW,S]6VuQet
+EndImage
+Fore
+SplineSet
+5 0 m 5
+ 1 0 l 1
+ 0 1 l 1
+ 0 16 l 1
+ 5 21 l 25
+ 0 26 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 28 l 1
+ 10 24 l 25
+ 12 24 l 1
+ 12 41 l 1
+ 13 42 l 1
+ 17 42 l 1
+ 18 41 l 1
+ 18 24 l 1
+ 20 24 l 25
+ 24 28 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 26 l 1
+ 25 21 l 25
+ 30 16 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 14 l 1
+ 20 18 l 25
+ 18 18 l 1
+ 18 1 l 1
+ 17 0 l 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 18 l 1
+ 10 18 l 25
+ 6 14 l 1
+ 6 1 l 1
+ 5 0 l 5
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10025
+Encoding: 173 1047 172
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTp#VZMin,NFg
+EndImage
+Fore
+SplineSet
+-0 5 m 1
+ 1 6 l 1
+ 20 6 l 1
+ 24 10 l 25
+ 24 14 l 25
+ 20 18 l 1
+ 7 18 l 1
+ 6 19 l 1
+ 6 23 l 1
+ 7 24 l 1
+ 20 24 l 1
+ 24 28 l 25
+ 24 32 l 25
+ 20 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 26 l 1
+ 25 21 l 25
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ -0 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10026
+Encoding: 174 1048 173
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3R&J)^L]@DT
+EndImage
+Fore
+SplineSet
+5 0 m 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 16 l 1
+ 24 34 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 26 l 1
+ 6 8 l 1
+ 6 1 l 1
+ 5 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10027
+Encoding: 175 1049 174
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 54 6 6 0
+mHj.hJ:LH=LkqFsaG>WP
+EndImage
+Fore
+SplineSet
+13 36 m 29
+ 12 37 l 25
+ 12 53 l 25
+ 13 54 l 25
+ 17 54 l 25
+ 18 53 l 25
+ 18 37 l 25
+ 17 36 l 25
+ 13 36 l 29
+EndSplineSet
+Refer: 173 1048 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10028
+Encoding: 176 1050 175
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3OPl4VL]@DT
+EndImage
+Fore
+Refer: 75 75 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10029
+Encoding: 177 1051 176
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Ml884Z9BL]@DT
+EndImage
+Fore
+SplineSet
+25 -0 m 1
+ 24 1 l 1
+ 24 36 l 1
+ 16 36 l 25
+ 12 32 l 1
+ 12 8 l 25
+ 4 0 l 25
+ 3 0 l 1
+ 0 3 l 1
+ 0 4 l 25
+ 6 10 l 1
+ 6 34 l 25
+ 14 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 1 l 1
+ 29 0 l 1
+ 25 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10030
+Encoding: 178 1052 177
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NI.W2PN.L]@DT
+EndImage
+Fore
+Refer: 77 77 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10031
+Encoding: 179 1053 178
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3M"ld^L]@DT
+EndImage
+Fore
+Refer: 72 72 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10032
+Encoding: 180 1054 179
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpLkpkCDu]k<
+EndImage
+Fore
+Refer: 79 79 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10033
+Encoding: 181 1055 180
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RENLkpkCL]@DT
+EndImage
+Fore
+SplineSet
+29 -0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 36 l 1
+ 6 36 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 40 l 1
+ 2 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 1 l 1
+ 29 -0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10034
+Encoding: 182 1056 181
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:R-FM"#qFJ,fQL
+EndImage
+Fore
+Refer: 80 80 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10035
+Encoding: 183 1057 182
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTpJ:N0+Du]k<
+EndImage
+Fore
+Refer: 67 67 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10036
+Encoding: 184 1058 183
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:RD;+<VdL+92BA
+EndImage
+Fore
+Refer: 84 84 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10037
+Encoding: 185 1059 184
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3Lj012n,NFg
+EndImage
+Fore
+SplineSet
+6 5 m 1
+ 7 6 l 1
+ 20 6 l 1
+ 24 10 l 25
+ 24 18 l 1
+ 8 18 l 25
+ 0 26 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 28 l 1
+ 10 24 l 25
+ 24 24 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 7 0 l 1
+ 6 1 l 1
+ 6 5 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10038
+Encoding: 186 1060 185
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MU;W,Nk%+92BA
+EndImage
+Fore
+SplineSet
+18 36 m 25
+ 18 18 l 1
+ 20 18 l 25
+ 24 22 l 1
+ 24 32 l 25
+ 20 36 l 25
+ 18 36 l 25
+10 36 m 25
+ 6 32 l 25
+ 6 22 l 25
+ 10 18 l 25
+ 12 18 l 25
+ 12 36 l 25
+ 10 36 l 25
+17 0 m 1
+ 13 0 l 1
+ 12 1 l 1
+ 12 12 l 1
+ 8 12 l 25
+ 0 20 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 20 l 1
+ 22 12 l 25
+ 18 12 l 1
+ 18 1 l 1
+ 17 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10039
+Encoding: 187 1061 186
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3:`rSjL]@DT
+EndImage
+Fore
+Refer: 88 88 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10040
+Encoding: 188 1062 187
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3LkpkCp]q]:
+EndImage
+Fore
+SplineSet
+35 -12 m 1
+ 31 -12 l 1
+ 30 -11 l 1
+ 30 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 6 l 1
+ 24 6 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 6 l 1
+ 34 6 l 1
+ 36 4 l 1
+ 36 -11 l 1
+ 35 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10041
+Encoding: 189 1063 188
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3Lj012#QOi)
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 12 l 1
+ 8 12 l 25
+ 0 20 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 22 l 1
+ 10 18 l 25
+ 24 18 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10042
+Encoding: 190 1064 189
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NHSW2QYnp](9o
+EndImage
+Fore
+SplineSet
+29 42 m 1
+ 30 41 l 1
+ 30 2 l 1
+ 28 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 6 l 1
+ 12 6 l 1
+ 12 35 l 1
+ 13 36 l 1
+ 17 36 l 1
+ 18 35 l 1
+ 18 6 l 1
+ 24 6 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10043
+Encoding: 191 1065 190
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 9 0 1 2 0 0 42 6 6 0
+mHj.hJ:NHSW2QYnp]q]:
+EndImage
+Fore
+SplineSet
+35 -12 m 1
+ 31 -12 l 1
+ 30 -11 l 1
+ 30 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 6 l 1
+ 12 6 l 1
+ 12 35 l 1
+ 13 36 l 1
+ 17 36 l 1
+ 18 35 l 1
+ 18 6 l 1
+ 24 6 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 6 l 1
+ 34 6 l 1
+ 36 4 l 1
+ 36 -11 l 1
+ 35 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10044
+Encoding: 192 1066 191
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:PF#JFJANn,NFg
+EndImage
+Fore
+SplineSet
+6 18 m 25
+ 6 6 l 25
+ 20 6 l 25
+ 24 10 l 1
+ 24 14 l 25
+ 20 18 l 1
+ 6 18 l 25
+0 41 m 1
+ 1 42 l 1
+ 10 42 l 1
+ 12 40 l 1
+ 12 32 l 1
+ 6 26 l 25
+ 6 24 l 1
+ 22 24 l 25
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 28 l 1
+ 6 34 l 25
+ 6 36 l 1
+ 1 36 l 1
+ 0 37 l 1
+ 0 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10045
+Encoding: 193 1067 192
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:NH3LrcNna8c2?
+EndImage
+Fore
+SplineSet
+12 14 m 25
+ 8 18 l 25
+ 6 18 l 25
+ 6 6 l 25
+ 8 6 l 25
+ 12 10 l 25
+ 12 14 l 25
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 41 l 1
+ 25 42 l 1
+ 29 42 l 1
+ 30 41 l 1
+ 30 1 l 1
+ 29 0 l 1
+5 42 m 1
+ 6 41 l 1
+ 6 24 l 1
+ 10 24 l 25
+ 18 16 l 1
+ 18 8 l 1
+ 10 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10046
+Encoding: 194 1068 193
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N0#JFJANn,NFg
+EndImage
+Fore
+SplineSet
+6 18 m 1
+ 6 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 14 l 1
+ 20 18 l 25
+ 6 18 l 1
+0 2 m 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 24 l 1
+ 22 24 l 25
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10047
+Encoding: 195 1069 194
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:MTp#WN*GDu]k<
+EndImage
+Fore
+SplineSet
+12 23 m 1
+ 13 24 l 1
+ 24 24 l 1
+ 24 32 l 1
+ 20 36 l 25
+ 10 36 l 25
+ 4 30 l 25
+ 3 30 l 1
+ 0 33 l 1
+ 0 34 l 25
+ 8 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 25
+ 0 9 l 1
+ 3 12 l 1
+ 4 12 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 1
+ 24 18 l 1
+ 13 18 l 1
+ 12 19 l 1
+ 12 23 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10048
+Encoding: 196 1070 195
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:N`[W9C1YO8o7\
+EndImage
+Fore
+SplineSet
+21 35 m 25
+ 18 32 l 25
+ 18 10 l 25
+ 21 7 l 25
+ 24 10 l 25
+ 24 32 l 25
+ 21 35 l 25
+5 0 m 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 41 l 1
+ 1 42 l 1
+ 5 42 l 1
+ 6 41 l 1
+ 6 24 l 1
+ 12 24 l 1
+ 12 34 l 25
+ 20 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 20 0 l 1
+ 12 8 l 25
+ 12 18 l 1
+ 6 18 l 1
+ 6 1 l 1
+ 5 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10049
+Encoding: 197 1071 196
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Mm#Lj2IHL]@DT
+EndImage
+Fore
+SplineSet
+24 36 m 1
+ 10 36 l 1
+ 6 32 l 25
+ 6 28 l 25
+ 10 24 l 25
+ 24 24 l 1
+ 24 36 l 1
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 18 l 1
+ 16 18 l 25
+ 6 8 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 10 l 1
+ 8 18 l 25
+ 0 26 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 28 42 l 1
+ 30 40 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10065
+Encoding: 198 1072 197
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MSEG_gSE
+EndImage
+Fore
+Refer: 97 97 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10066
+Encoding: 199 1073 198
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:Mlpn;)mVDu]k<
+EndImage
+Fore
+SplineSet
+6 24 m 25
+ 6 10 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 20 l 25
+ 20 24 l 25
+ 6 24 l 25
+24 37 m 1
+ 23 36 l 1
+ 10 36 l 1
+ 6 32 l 25
+ 6 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+ 23 42 l 1
+ 24 41 l 1
+ 24 37 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10067
+Encoding: 200 1074 199
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:QR>n;-Q6
+EndImage
+Fore
+SplineSet
+6 18 m 25
+ 6 10 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 14 l 25
+ 20 18 l 25
+ 6 18 l 25
+10 36 m 25
+ 6 32 l 25
+ 6 24 l 25
+ 18 24 l 25
+ 18 32 l 25
+ 14 36 l 25
+ 10 36 l 25
+8 42 m 1
+ 16 42 l 1
+ 24 34 l 25
+ 24 22 l 1
+ 30 16 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 34 l 1
+ 8 42 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10068
+Encoding: 201 1075 200
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:REFJ:N.M
+EndImage
+Fore
+SplineSet
+0 22 m 25
+ 8 30 l 25
+ 29 30 l 25
+ 30 29 l 25
+ 30 25 l 25
+ 29 24 l 25
+ 10 24 l 25
+ 6 20 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+ 0 1 l 25
+ 0 22 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10069
+Encoding: 202 1076 201
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 6 0 1 2 0 0 30 6 6 0
+mHj.hJ:MT8:f-qC
+EndImage
+Fore
+SplineSet
+10 24 m 25
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 24 l 25
+ 10 24 l 25
+12 41 m 1
+ 13 42 l 1
+ 22 42 l 1
+ 30 34 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 8 0 l 1
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 25
+ 24 30 l 1
+ 24 32 l 25
+ 20 36 l 1
+ 13 36 l 1
+ 12 37 l 1
+ 12 41 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10070
+Encoding: 203 1077 202
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTppjdSh
+EndImage
+Fore
+Refer: 101 101 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10072
+Encoding: 204 1078 203
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:OSsE2]]8
+EndImage
+Fore
+SplineSet
+6 22 m 25
+ 10 18 l 25
+ 12 18 l 25
+ 12 29 l 25
+ 13 30 l 25
+ 17 30 l 25
+ 18 29 l 25
+ 18 18 l 25
+ 20 18 l 25
+ 24 22 l 25
+ 24 29 l 25
+ 25 30 l 25
+ 29 30 l 25
+ 30 29 l 25
+ 30 20 l 25
+ 25 15 l 25
+ 30 10 l 25
+ 30 1 l 25
+ 29 0 l 25
+ 25 0 l 25
+ 24 1 l 25
+ 24 8 l 25
+ 20 12 l 25
+ 18 12 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 12 l 25
+ 10 12 l 25
+ 6 8 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+ 0 1 l 25
+ 0 10 l 25
+ 5 15 l 25
+ 0 20 l 25
+ 0 29 l 25
+ 1 30 l 25
+ 5 30 l 25
+ 6 29 l 25
+ 6 22 l 25
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10073
+Encoding: 205 1079 204
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:R+pE!Yq5
+EndImage
+Fore
+SplineSet
+0 29 m 1
+ 1 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 20 l 1
+ 25 15 l 25
+ 30 10 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ -0 5 l 1
+ 1 6 l 1
+ 20 6 l 1
+ 23 9 l 25
+ 20 12 l 1
+ 7 12 l 1
+ 6 13 l 1
+ 6 17 l 1
+ 7 18 l 1
+ 20 18 l 1
+ 23 21 l 25
+ 20 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ 0 29 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10074
+Encoding: 206 1080 205
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NHCW5sbp
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 20 l 1
+ 4 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 10 l 1
+ 26 30 l 1
+ 28 30 l 1
+ 30 28 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10075
+Encoding: 207 1081 206
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 42 6 6 0
+mHj.hJ:LH=LmY-^L]@DT
+EndImage
+Fore
+SplineSet
+13 30 m 29
+ 12 31 l 25
+ 12 41 l 25
+ 13 42 l 25
+ 17 42 l 25
+ 18 41 l 25
+ 18 31 l 25
+ 17 30 l 25
+ 13 30 l 29
+EndSplineSet
+Refer: 205 1080 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10076
+Encoding: 208 1082 207
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH;i/i`p
+EndImage
+Fore
+SplineSet
+5 0 m 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 18 l 1
+ 14 18 l 25
+ 26 30 l 25
+ 27 30 l 1
+ 30 27 l 1
+ 30 26 l 25
+ 19 15 l 25
+ 30 4 l 25
+ 30 3 l 1
+ 27 0 l 1
+ 26 0 l 25
+ 14 12 l 25
+ 6 12 l 1
+ 6 1 l 1
+ 5 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10077
+Encoding: 209 1083 208
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:Ml884\O:
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 20 l 1
+ 20 24 l 1
+ 16 24 l 1
+ 12 20 l 1
+ 12 8 l 25
+ 4 0 l 25
+ 3 0 l 1
+ 0 3 l 1
+ 0 4 l 25
+ 6 10 l 1
+ 6 22 l 25
+ 14 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10078
+Encoding: 210 1084 209
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NI.W2PLP
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 20 l 1
+ 16 12 l 1
+ 14 12 l 1
+ 6 20 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 28 l 1
+ 2 30 l 1
+ 4 30 l 1
+ 15 19 l 25
+ 26 30 l 1
+ 28 30 l 1
+ 30 28 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10079
+Encoding: 211 1085 210
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3pkX_+
+EndImage
+Fore
+SplineSet
+0 29 m 29
+ 1 30 l 25
+ 5 30 l 25
+ 6 29 l 25
+ 6 18 l 25
+ 24 18 l 25
+ 24 29 l 25
+ 25 30 l 25
+ 29 30 l 25
+ 30 29 l 25
+ 30 1 l 25
+ 29 0 l 25
+ 25 0 l 25
+ 24 1 l 25
+ 24 12 l 25
+ 6 12 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 25
+ 0 1 l 25
+ 0 29 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10080
+Encoding: 212 1086 211
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTpLkp!M
+EndImage
+Fore
+Refer: 111 111 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10081
+Encoding: 213 1087 212
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:RENLkpie
+EndImage
+Fore
+SplineSet
+1 0 m 29
+ 0 1 l 25
+ 0 28 l 25
+ 2 30 l 25
+ 28 30 l 25
+ 30 28 l 25
+ 30 1 l 25
+ 29 0 l 25
+ 25 0 l 25
+ 24 1 l 25
+ 24 24 l 25
+ 6 24 l 25
+ 6 1 l 25
+ 5 0 l 25
+ 1 0 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10082
+Encoding: 214 1088 213
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:R-FLktPNJ,fQL
+EndImage
+Fore
+Refer: 112 112 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10083
+Encoding: 215 1089 214
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTpJ:MkE
+EndImage
+Fore
+Refer: 99 99 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10084
+Encoding: 216 1090 215
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:RD;+<Vd,
+EndImage
+Fore
+SplineSet
+0 29 m 29
+ 1 30 l 25
+ 29 30 l 25
+ 30 29 l 25
+ 30 25 l 25
+ 29 24 l 25
+ 18 24 l 25
+ 18 1 l 25
+ 17 0 l 25
+ 13 0 l 25
+ 12 1 l 25
+ 12 24 l 25
+ 1 24 l 25
+ 0 25 l 25
+ 0 29 l 29
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10085
+Encoding: 217 1091 216
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3Lkp9]n,NFg
+EndImage
+Fore
+Refer: 121 121 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: afii10086
+Encoding: 218 1092 217
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:MU;W2OYX+92BA
+EndImage
+Fore
+SplineSet
+18 24 m 25
+ 18 6 l 25
+ 20 6 l 25
+ 24 10 l 25
+ 24 20 l 25
+ 20 24 l 25
+ 18 24 l 25
+10 24 m 25
+ 6 20 l 25
+ 6 10 l 25
+ 10 6 l 25
+ 12 6 l 25
+ 12 24 l 25
+ 10 24 l 25
+17 -6 m 1
+ 13 -6 l 1
+ 12 -5 l 1
+ 12 0 l 1
+ 8 0 l 25
+ 0 8 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 12 30 l 1
+ 12 35 l 1
+ 13 36 l 1
+ 17 36 l 1
+ 18 35 l 1
+ 18 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 25
+ 18 0 l 1
+ 18 -5 l 1
+ 17 -6 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10087
+Encoding: 219 1093 218
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NGP+Adjo
+EndImage
+Fore
+Refer: 120 120 N 1 0 0 1 0 0 2
+Validated: 1
+EndChar
+
+StartChar: afii10088
+Encoding: 220 1094 219
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3Lktg3(]XO9
+EndImage
+Fore
+SplineSet
+1 30 m 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 6 l 1
+ 24 6 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 6 l 1
+ 34 6 l 1
+ 36 4 l 1
+ 36 -11 l 1
+ 35 -12 l 1
+ 31 -12 l 1
+ 30 -11 l 1
+ 30 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 29 l 1
+ 1 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10089
+Encoding: 221 1095 220
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3p]q-*
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 6 l 1
+ 8 6 l 25
+ 0 14 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 16 l 1
+ 10 12 l 25
+ 24 12 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10090
+Encoding: 222 1096 221
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NHSW2TIk
+EndImage
+Fore
+SplineSet
+29 30 m 1
+ 30 29 l 1
+ 30 2 l 1
+ 28 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 6 l 1
+ 12 6 l 1
+ 12 23 l 1
+ 13 24 l 1
+ 17 24 l 1
+ 18 23 l 1
+ 18 6 l 1
+ 24 6 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10091
+Encoding: 223 1097 222
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 7 0 1 2 0 0 30 6 6 0
+mHj.hJ:NHSW2TIs(]XO9
+EndImage
+Fore
+SplineSet
+35 -12 m 1
+ 31 -12 l 1
+ 30 -11 l 1
+ 30 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 6 l 1
+ 12 6 l 1
+ 12 23 l 1
+ 13 24 l 1
+ 17 24 l 1
+ 18 23 l 1
+ 18 6 l 1
+ 24 6 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 6 l 1
+ 34 6 l 1
+ 36 4 l 1
+ 36 -11 l 1
+ 35 -12 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10092
+Encoding: 224 1098 223
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:PF#n;-Q6
+EndImage
+Fore
+SplineSet
+20 6 m 1
+ 23 9 l 1
+ 20 12 l 1
+ 6 12 l 25
+ 6 6 l 1
+ 20 6 l 1
+12 20 m 1
+ 10 18 l 1
+ 22 18 l 1
+ 30 10 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 16 l 1
+ 6 22 l 1
+ 6 24 l 1
+ 1 24 l 1
+ 0 25 l 1
+ -0 29 l 1
+ 1 30 l 1
+ 10 30 l 1
+ 12 28 l 1
+ 12 20 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10093
+Encoding: 225 1099 224
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:NH3aJd/[
+EndImage
+Fore
+SplineSet
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 29 l 1
+ 25 30 l 1
+ 29 30 l 1
+ 30 29 l 1
+ 30 1 l 1
+ 29 0 l 1
+6 12 m 25
+ 6 6 l 25
+ 8 6 l 25
+ 11 9 l 25
+ 8 12 l 25
+ 6 12 l 25
+5 30 m 1
+ 6 29 l 1
+ 6 18 l 1
+ 10 18 l 25
+ 18 10 l 1
+ 18 8 l 1
+ 10 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ -0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10094
+Encoding: 226 1100 225
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:N0#n;-Q6
+EndImage
+Fore
+SplineSet
+20 12 m 25
+ 6 12 l 25
+ 6 6 l 1
+ 20 6 l 25
+ 23 9 l 1
+ 20 12 l 25
+5 30 m 1
+ 6 29 l 1
+ 6 18 l 1
+ 22 18 l 25
+ 30 10 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 2 0 l 1
+ 0 2 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10095
+Encoding: 227 1101 226
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:MTp3!f!R
+EndImage
+Fore
+SplineSet
+12 17 m 1
+ 13 18 l 1
+ 24 18 l 1
+ 24 20 l 1
+ 20 24 l 25
+ 10 24 l 25
+ 6 20 l 1
+ 4 18 l 25
+ 3 18 l 1
+ 0 21 l 1
+ 0 22 l 25
+ 8 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 1 0 l 1
+ 0 1 l 1
+ 0 5 l 1
+ 1 6 l 1
+ 20 6 l 1
+ 24 10 l 1
+ 24 12 l 1
+ 13 12 l 1
+ 12 13 l 1
+ 12 17 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10096
+Encoding: 228 1102 227
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:N`[kbsRC
+EndImage
+Fore
+SplineSet
+21 23 m 25
+ 18 20 l 25
+ 18 10 l 1
+ 21 7 l 25
+ 24 10 l 1
+ 24 20 l 25
+ 21 23 l 25
+1 0 m 1
+ 0 1 l 1
+ 0 29 l 1
+ 1 30 l 1
+ 5 30 l 1
+ 6 29 l 1
+ 6 18 l 1
+ 12 18 l 1
+ 12 22 l 1
+ 20 30 l 1
+ 22 30 l 1
+ 30 22 l 1
+ 30 8 l 1
+ 22 0 l 1
+ 20 0 l 1
+ 12 8 l 1
+ 12 12 l 1
+ 6 12 l 1
+ 6 1 l 1
+ 5 0 l 1
+ 1 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+
+StartChar: afii10097
+Encoding: 229 1103 228
+Width: 36
+VWidth: 0
+Flags: HMW
+LayerCount: 2
+Back
+Image: 5 5 0 1 2 0 0 30 6 6 0
+mHj.hJ:Mm#GY!Vj
+EndImage
+Fore
+SplineSet
+24 24 m 1
+ 10 24 l 1
+ 7 21 l 25
+ 10 18 l 1
+ 24 18 l 1
+ 24 24 l 1
+29 0 m 1
+ 25 0 l 1
+ 24 1 l 1
+ 24 12 l 1
+ 16 12 l 25
+ 4 0 l 1
+ 3 0 l 1
+ 0 3 l 1
+ 0 4 l 1
+ 8 12 l 25
+ 0 20 l 1
+ 0 22 l 1
+ 8 30 l 1
+ 28 30 l 1
+ 30 28 l 1
+ 30 1 l 1
+ 29 0 l 1
+EndSplineSet
+Validated: 1
+EndChar
+EndChars
+EndSplineFont

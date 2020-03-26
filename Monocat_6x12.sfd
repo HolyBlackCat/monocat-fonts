@@ -3,8 +3,8 @@ FontName: Monocat_6x12
 FullName: Monocat 6x12
 FamilyName: Monocat 6x12
 Weight: Normal
-Copyright: Licensce: CC-BY-SA 3.0 `Monocat 6x12` v1.10 by HolyBlackCat, 2015-2019.\nYou can find the last version at https://github.com/HolyBlackCat/monocat-fonts
-Version: 001.100
+Copyright: Licensce: CC-BY-SA 4.0 `Monocat 6x12` v1.11 by HolyBlackCat, 2015-2020.\nYou can find the last version at https://github.com/HolyBlackCat/monocat-fonts
+Version: 1.11
 ItalicAngle: 0
 UnderlinePosition: -3
 UnderlineWidth: 6
@@ -20,7 +20,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1445609187
-ModificationTime: 1566657872
+ModificationTime: 1585252779
 PfmFamily: 49
 TTFWeight: 400
 TTFWidth: 5
@@ -5409,7 +5409,7 @@ StartChar: emdash
 Encoding: 142 8212 142
 Width: 36
 VWidth: 0
-Flags: HMWO
+Flags: HMW
 LayerCount: 2
 Back
 Image: 4 1 0 1 2 0 6 18 6 6 0
@@ -7434,21 +7434,19 @@ mHj.hJ:REFJ:N.M
 EndImage
 Fore
 SplineSet
-0 22 m 25
- 8 30 l 25
- 29 30 l 25
+0 28 m 1
+ 2 30 l 1
+ 29 30 l 1
  30 29 l 25
  30 25 l 25
  29 24 l 25
- 10 24 l 25
- 6 20 l 25
- 6 1 l 25
+ 6 24 l 25
+ 6 1 l 1
  5 0 l 25
  1 0 l 25
- 0 1 l 25
- 0 22 l 25
+ 0 1 l 1
+ 0 28 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: afii10069
@@ -7719,9 +7717,8 @@ SplineSet
 29 0 m 1
  25 0 l 1
  24 1 l 1
- 24 20 l 1
- 20 24 l 1
- 16 24 l 1
+ 24 24 l 5
+ 16 24 l 5
  12 20 l 1
  12 8 l 25
  4 0 l 25
@@ -7731,12 +7728,11 @@ SplineSet
  6 10 l 1
  6 22 l 25
  14 30 l 1
- 22 30 l 1
- 30 22 l 1
+ 28 30 l 1
+ 30 28 l 1
  30 1 l 1
  29 0 l 1
 EndSplineSet
-Validated: 1
 EndChar
 
 StartChar: afii10078

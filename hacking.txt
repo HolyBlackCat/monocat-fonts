@@ -1,0 +1,5 @@
+How to generate TTF from SFD?
+	Open in FontForge.
+	Generate fonts -> TTF.
+	!! Disable "raster" output, since our custom rasters are not maintained...
+	Ignore self-intersections, they're to be expected.

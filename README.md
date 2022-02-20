@@ -1,16 +1,18 @@
+A collection of bitmap programming fonts I've made for myself over the years.
+
+## Monocat 7x14
+
+7x14 refers to the recommended font size in pixels. Turn off antialiasing for best results.
+
+![](misc/7x14.png)
+
 ## Monocat 6x12
 
 The goal was to create the tiniest readable programming font.
 
-`6x12` in the name refers to the font size in pixels. I couldn't make it smaller without harming readability.
+6x12 refers to the recommended font size in pixels. Turn off antialiasing for best results.
 
-For best results, the font size should be set to a multiple of 12.
-
-It's intended to be used without antialiasing (especially if not upscaled), but it *does* work with antialiasing.
-
-Demo, without antialiasing:
-
-![](images/demo.png)
+![](misc/6x12.png)
 
 ### Supported characters
 
